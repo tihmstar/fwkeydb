@@ -1,0 +1,76 @@
+name: Buildrunner
+
+on:
+  push:
+  pull_request:
+    branches:
+    - master
+
+jobs:
+  checkNewKeys:
+    strategy:
+      matrix:
+        platform: [ubuntu-latest]
+    runs-on: ${{ matrix.platform }}
+    env:
+      BUILDROOT: "buildroot_${{ matrix.platform }}"
+      GIT_DEPENDENCIES: img3tool,img4tool,partialZipBrowser
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    - name: download dependencies
+      env: 
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        get_latest_release() {
+          url="https://api.github.com/repos/$1/releases/latest"
+          echo "url: ${url}" >&2
+          curl --silent --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' "${url}" | # Get latest release from GitHub api
+          jq .tag_name  | # Get tag
+          tr -d '"' # Strip quotes
+        }
+        mkdir depdir
+        cd depdir
+        mkdir $BUILDROOT
+        IFS=',' read -r -a deparray <<< "$GIT_DEPENDENCIES"; for d in ${deparray[@]}; do
+          dep=$d
+          if ! echo ${dep} | grep -q '/'; then
+            dep=${{ github.repository_owner }}/${dep}
+          fi
+          echo "Got dependency: ${dep}"
+          tag=$(get_latest_release ${dep});
+          echo "Found tag: $tag"
+          wget "https://github.com/${dep}/releases/download/$tag/$BUILDROOT.zip"
+          unzip -u "$BUILDROOT.zip"
+          rm "$BUILDROOT.zip"
+        done
+        echo "moving dependencies to /"
+        sudo cp -r $BUILDROOT/* /
+        sudo chmod +x /usr/local/bin/*
+        cd ..
+        rm -rf depdir
+    - name: download fwkeydb_tools
+      run: |
+        git clone --depth=1 https://github.com/tihmstar/fwkeydb_tools
+    - name: perform check
+      run: |
+        list_changed_files(){
+          (
+            if [ "x${{ github.event_name }}" == "xpull_request" ]; then
+              git diff --name-only origin/master | grep -P -v "D\t" | grep "keys/" # List file differences to master
+            else
+              # List files modified since last push
+              prevevent=${{ github.event.before }}
+              if [ "x${prevevent}" == "x0000000000000000000000000000000000000000" ]; then
+                # This happens when CI was never run before (on a non-master branch)
+                prevevent=origin/master
+              fi
+              for commit in $(git rev-list ${prevevent}..${{ github.sha }}); do
+                git diff-tree -r ${commit} | grep -P -v "D\t" | grep "keys/" | cut -d$'\t' -f2
+              done
+            fi
+          ) | sort | uniq
+        }
+        list_changed_files | python fwkeydb_tools/verifyKeyfileBatch.py -        
