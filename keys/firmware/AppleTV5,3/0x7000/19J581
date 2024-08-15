@@ -1,0 +1,345 @@
+{
+ "version": "1.0",
+ "ProductType": "AppleTV5,3",
+ "BuildTrain": "SatelliteB",
+ "ProductBuildVersion": "19J581",
+ "ProductVersion": "15.1.1",
+ "cpid": "0x7000",
+ "bdid": "0x34",
+ "keys": {
+  "Firmware/018-55288-090.dmg.mtree": {
+   "kbag": "",
+   "filename": "Firmware/018-55288-090.dmg.mtree",
+   "date": "2024-08-15T19:36:16Z",
+   "digests": [
+    "df836dbb81eba09396d212a9e26e708a0e2216cd"
+   ],
+   "names": [
+    "Ap,SystemVolumeCanonicalMetadata"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/applelogo~appletv.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/applelogo~appletv.im4p",
+   "date": "2024-08-15T19:36:18Z",
+   "digests": [
+    "f5b137b8958bc554b0465b6d04bb1490654a6e4a",
+    "0579d2034b284b56176bab5d14655fbeee78cbc5"
+   ],
+   "names": [
+    "AppleLogo",
+    "RestoreLogo"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)",
+    "Recovery Customer Install"
+   ],
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/DeviceTree.j42dap.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/DeviceTree.j42dap.im4p",
+   "date": "2024-08-15T19:36:18Z",
+   "digests": [
+    "123dbe5c01972df08ad068c7ef1bac1d27199423",
+    "10f5aec684598415804e501ab87864bf209baefc"
+   ],
+   "names": [
+    "DeviceTree",
+    "RestoreDeviceTree"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)",
+    "Recovery Customer Install"
+   ],
+   "iv": "",
+   "key": ""
+  },
+  "kernelcache.release.j42d": {
+   "kbag": "",
+   "filename": "kernelcache.release.j42d",
+   "date": "2024-08-15T19:36:18Z",
+   "digests": [
+    "0201161625e7c7596208cbaf9fbdcaad02a0e4d6",
+    "8600876cec9328078673db401201c9539be1f2fa"
+   ],
+   "names": [
+    "KernelCache",
+    "RestoreKernelCache"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)",
+    "Recovery Customer Install"
+   ],
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/LLB.j42d.RELEASE.im4p": {
+   "kbag": "93434565f094d17c6b7ffd785be0789d0b546b6a7bdfb19395530905a14f9e73a792ba528d2edda2f0dc1e043f59cfcd",
+   "filename": "Firmware/all_flash/LLB.j42d.RELEASE.im4p",
+   "date": "2024-08-15T19:36:16Z",
+   "digests": [
+    "11ee85ec47bbdb43f88f88db075f67f7924c7cf2"
+   ],
+   "names": [
+    "LLB"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "e7c1b5f962ca35041058f22626138974",
+   "key": "e239b9354dae0c929b692e724a1e6e98b489eb3f351ddff01823de7f74d92f77"
+  },
+  "Firmware/all_flash/recoverymode@1080~appletv5.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/recoverymode@1080~appletv5.im4p",
+   "date": "2024-08-15T19:36:16Z",
+   "digests": [
+    "183bc3d057bd16af510157db66118158573fa558"
+   ],
+   "names": [
+    "RecoveryMode"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": ""
+  },
+  "018-55221-092.dmg": {
+   "kbag": "",
+   "filename": "018-55221-092.dmg",
+   "date": "2024-08-15T19:36:18Z",
+   "digests": [
+    "94cc6d1f45bb6e86fbd5d1eaa7ab9679176d0f85"
+   ],
+   "names": [
+    "RestoreRamDisk",
+    "EraseRamdisk"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Recovery Customer Install"
+   ],
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/sep-firmware.j42d.RELEASE.im4p": {
+   "kbag": "dc6f209fc5964ca12c53b3d102dd32179762919be475e5105e9d7feafb0e85fe4fe64c960cd29f74a6eaf3804be56ee9",
+   "filename": "Firmware/all_flash/sep-firmware.j42d.RELEASE.im4p",
+   "date": "2024-08-15T19:36:16Z",
+   "digests": [
+    "ac4e35c1378b113c0bd17b77827c128e15106aad",
+    "231040d748703ddf7985c8851caf26c4d07800e3"
+   ],
+   "names": [
+    "RestoreSEP",
+    "SEP"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ]
+  },
+  "Firmware/018-55221-092.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/018-55221-092.dmg.trustcache",
+   "date": "2024-08-15T19:36:18Z",
+   "digests": [
+    "18db3f088081296f1c42a52cde07c7e5d7e32f03"
+   ],
+   "names": [
+    "RestoreTrustCache"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Recovery Customer Install"
+   ],
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/018-55288-090.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/018-55288-090.dmg.trustcache",
+   "date": "2024-08-15T19:36:16Z",
+   "digests": [
+    "31115baa6ecc9aaecab309882e700020952001d8"
+   ],
+   "names": [
+    "StaticTrustCache"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/018-55288-090.dmg.root_hash": {
+   "kbag": "",
+   "filename": "Firmware/018-55288-090.dmg.root_hash",
+   "date": "2024-08-15T19:36:16Z",
+   "digests": [
+    "03a4865382d5385d8a90a2f982678263fa641508"
+   ],
+   "names": [
+    "SystemVolume"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/dfu/iBEC.j42d.RELEASE.im4p": {
+   "kbag": "86a7bea8f6183e5a51914ac18ede914ff64c55d2435c2a15a0192e0700f35f346b4b41b2e53d452669b553146dcdd91c",
+   "filename": "Firmware/dfu/iBEC.j42d.RELEASE.im4p",
+   "date": "2024-08-15T19:36:18Z",
+   "digests": [
+    "f4b75448ccb98332c478d217b55e625bf87d9531"
+   ],
+   "names": [
+    "iBEC"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)",
+    "Recovery Customer Install"
+   ],
+   "iv": "9b74e36eede42832ed541fafcbfd193c",
+   "key": "b70ca4981617e26915df441987e5616f7512c3faa65ab168ca316562305bee42"
+  },
+  "Firmware/dfu/iBSS.j42d.RELEASE.im4p": {
+   "kbag": "45e95f8e2df5edc0878c14dd7550af6360269042d7d3d670654ed700ecb6df0ad2735bf60e439ab2508421699406becb",
+   "filename": "Firmware/dfu/iBSS.j42d.RELEASE.im4p",
+   "date": "2024-08-15T19:36:18Z",
+   "digests": [
+    "1a2393ec14cae24e7e067d2539b892243f74dab5"
+   ],
+   "names": [
+    "iBSS"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)",
+    "Recovery Customer Install"
+   ],
+   "iv": "243abab1e440fecdd249151c45eca083",
+   "key": "f446bbde80c19b8b10547401dcd727e624c011f3703c18e89940ab926e9ebde3"
+  },
+  "Firmware/all_flash/iBoot.j42d.RELEASE.im4p": {
+   "kbag": "11928e41521d692fd322ea2ea8a801f246007ba133bc75828dac74ab17659744b6b347afdaefc3f286a80b4b5e937b1e",
+   "filename": "Firmware/all_flash/iBoot.j42d.RELEASE.im4p",
+   "date": "2024-08-15T19:36:16Z",
+   "digests": [
+    "9565c8b42679d95c21818e72b424a8bf9b1c4fb2"
+   ],
+   "names": [
+    "iBoot"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "282b8c3ffcc4f8615afa6ea71cf442b9",
+   "key": "aa63638424a4a10c595cee9d66cd9992b4abe39158ac3309b8587fe7d5fc0f8a"
+  },
+  "018-55159-091.dmg": {
+   "kbag": "",
+   "filename": "018-55159-091.dmg",
+   "date": "2024-08-15T19:36:16Z",
+   "digests": [
+    "f27b25ce851c2b771b6203f1e5fe68e2838e6830"
+   ],
+   "names": [
+    "RestoreRamDisk",
+    "UpgradeRamdisk"
+   ],
+   "variants": [
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/018-55159-091.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/018-55159-091.dmg.trustcache",
+   "date": "2024-08-15T19:36:16Z",
+   "digests": [
+    "c03bfa4508e53067dd70389d40ce68a90da01c42"
+   ],
+   "names": [
+    "RestoreTrustCache"
+   ],
+   "variants": [
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/018-55189-092.dmg.mtree": {
+   "kbag": "",
+   "filename": "Firmware/018-55189-092.dmg.mtree",
+   "date": "2024-08-15T19:36:18Z",
+   "digests": [
+    "af29674e5e6ceab089974882b6c14fc839225e36"
+   ],
+   "names": [
+    "Ap,SystemVolumeCanonicalMetadata"
+   ],
+   "variants": [
+    "Recovery Customer Install"
+   ],
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/018-55189-092.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/018-55189-092.dmg.trustcache",
+   "date": "2024-08-15T19:36:18Z",
+   "digests": [
+    "4256be69e630c73ad35f942f9485c0db9a8c571e"
+   ],
+   "names": [
+    "StaticTrustCache"
+   ],
+   "variants": [
+    "Recovery Customer Install"
+   ],
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/018-55189-092.dmg.root_hash": {
+   "kbag": "",
+   "filename": "Firmware/018-55189-092.dmg.root_hash",
+   "date": "2024-08-15T19:36:18Z",
+   "digests": [
+    "6fb3b67055867c154c9bd79f4c536af63473e900"
+   ],
+   "names": [
+    "SystemVolume"
+   ],
+   "variants": [
+    "Recovery Customer Install"
+   ],
+   "iv": "",
+   "key": ""
+  }
+ },
+ "urls": [
+  "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-28303/82304E58-2271-4B41-A4CC-C8A6E38D3CB2/AppleTV5,3_15.1.1_19J581_Restore.ipsw"
+ ]
+}
