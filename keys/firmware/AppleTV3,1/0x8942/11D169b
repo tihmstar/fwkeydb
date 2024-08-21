@@ -1,0 +1,162 @@
+{
+ "version": "1.0",
+ "ProductType": "AppleTV3,1",
+ "BuildTrain": "Sochi",
+ "ProductBuildVersion": "11D169b",
+ "ProductVersion": "7.1",
+ "cpid": "0x8942",
+ "bdid": "0x8",
+ "keys": {
+  "Firmware/all_flash/all_flash.j33ap.production/applelogo~appletv.s5l8942x.img3": {
+   "kbag": "85f2be83ee954876cb512eae33c4c9a215f77c880b4fd0b9911e392e7be32399b2c01641a574073393fcd6897dee6dfd",
+   "filename": "Firmware/all_flash/all_flash.j33ap.production/applelogo~appletv.s5l8942x.img3",
+   "digests": [
+    "5ad9dcff79f68f74d708e807c8236b8932120211"
+   ],
+   "names": [
+    "AppleLogo",
+    "RestoreLogo"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)"
+   ],
+   "date": "2024-08-21T20:00:22Z",
+   "iv": "9c695ab08c74a44f7555cdc15acded59",
+   "key": "c8cf091ff98e05e027c9eaf4ae5b2269509fa79ca8a8846ffeee906a4a2c1fa3"
+  },
+  "Firmware/all_flash/all_flash.j33ap.production/DeviceTree.j33ap.img3": {
+   "kbag": "b603bff7709311a451c55fe0008d2c223292cc456668ed47ba1224d4332f8e12c3301f1806a50f1ec8ce7e3c621e555c",
+   "filename": "Firmware/all_flash/all_flash.j33ap.production/DeviceTree.j33ap.img3",
+   "digests": [
+    "e589603d6b716e85eaa7649fc2f3a90b1b93ecca"
+   ],
+   "names": [
+    "DeviceTree",
+    "RestoreDeviceTree"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)"
+   ],
+   "date": "2024-08-21T20:00:22Z",
+   "iv": "cad1b3fa898c760b36d65d25ccc3d363",
+   "key": "d9c79c34c1c14ff751556716277191617a9ec9776fcc9e9310d3648b72379df5"
+  },
+  "kernelcache.release.j33": {
+   "kbag": "4e50a6acedb49bf44a123e538ab23993850497e0831ae436c330c97c98c0adde85a67f3dbff32fb29ef4c1e69b65baca",
+   "filename": "kernelcache.release.j33",
+   "digests": [
+    "b16aafa96b54767cac60b342cb130c1964a3a0dc"
+   ],
+   "names": [
+    "KernelCache",
+    "RestoreKernelCache"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)"
+   ],
+   "date": "2024-08-21T20:00:22Z",
+   "iv": "2e50de9e14d384b60581829703f52427",
+   "key": "6d8bac8b803bde6314748970bb250cdeec38b7159b056dbde9a25d7bfc249d97"
+  },
+  "Firmware/all_flash/all_flash.j33ap.production/LLB.j33ap.RELEASE.img3": {
+   "kbag": "6f00606820e2b0dba024f389d29b5c4290584fd8fe194df4dd3f9c661ce6fff93ccc907655bb0fae444c7d086e3c396c",
+   "filename": "Firmware/all_flash/all_flash.j33ap.production/LLB.j33ap.RELEASE.img3",
+   "digests": [
+    "e012af34621deba09394749aceab57094ec3bcf1"
+   ],
+   "names": [
+    "LLB"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)"
+   ],
+   "date": "2024-08-21T20:00:22Z",
+   "iv": "4fbe4ea6da2a859227b8babcf7c37dae",
+   "key": "7a2bafaa3e751778e9f3aa535248d9b3b40f2e7a8b4a5b18a0670fa2d2419c56"
+  },
+  "Firmware/all_flash/all_flash.j33ap.production/recoverymode@1080~appletv.s5l8942x.img3": {
+   "kbag": "2bbc2247a799c71eb59cc6869e07188b5a5fd59bcc946cca8895c8307c8cc95cb01ef0fc89e54a19f2684e8d6fef1989",
+   "filename": "Firmware/all_flash/all_flash.j33ap.production/recoverymode@1080~appletv.s5l8942x.img3",
+   "digests": [
+    "fad98876146094005a3ae387a9bbbe24c45549e8"
+   ],
+   "names": [
+    "RecoveryMode"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)"
+   ],
+   "date": "2024-08-21T20:00:22Z",
+   "iv": "2cbe32517b946ea578d8abdb2947a92e",
+   "key": "bbb4dd96905994398bf59d663e37662e95d7ac60ca1f4ad5217a51fb8acf75c2"
+  },
+  "058-4322-004.dmg": {
+   "kbag": "41a08f33968d44cacc3c9411b9700056613c5542572df8963db60055a60106a63496dd9c4d8fe9e3c000d81437807ac9",
+   "filename": "058-4322-004.dmg",
+   "digests": [
+    "e17250194b1ee18204171222cc943da272f8028e"
+   ],
+   "names": [
+    "RestoreRamDisk",
+    "EraseRamdisk"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)"
+   ],
+   "date": "2024-08-21T20:00:22Z",
+   "iv": "0d5a64ee1f499647817755f2bbe93595",
+   "key": "181888dd02283e6fcde137a39b39142614fdf41b3845337879c05cf2d09e2bb1"
+  },
+  "Firmware/dfu/iBEC.j33ap.RELEASE.dfu": {
+   "kbag": "7b8c49c1b358b371e1a435fdd321b1d24940b52a3290ee199e15d5729491ec289e8fc59e00fa6871436df37086ec15ad",
+   "filename": "Firmware/dfu/iBEC.j33ap.RELEASE.dfu",
+   "digests": [
+    "035abbf08976a2a042f5152be2494d4ea6ff1991"
+   ],
+   "names": [
+    "iBEC"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)"
+   ],
+   "date": "2024-08-21T20:00:22Z",
+   "iv": "ed744b0a5a5525286284a4318123e4b9",
+   "key": "533ccba715ab7503f70e03a1393b876b26e6876b14125eff95a4ee7b8e8958db"
+  },
+  "Firmware/dfu/iBSS.j33ap.RELEASE.dfu": {
+   "kbag": "d6375b927929f18f911355368da33bbd99387eb81186f92d062402b86c625d089e3df5443a811844c4898c3212b0eb09",
+   "filename": "Firmware/dfu/iBSS.j33ap.RELEASE.dfu",
+   "digests": [
+    "91e7e5a13c52eb9f36bb5bb57597a61ac5304b02"
+   ],
+   "names": [
+    "iBSS"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)"
+   ],
+   "date": "2024-08-21T20:00:22Z",
+   "iv": "901ef73d8fa39d865f5f87f79b05c3a9",
+   "key": "187c96b8ca9c9378d3156bb01dd07ee6b4ab5bfcd3a7909b6055bc5573eff4cc"
+  },
+  "Firmware/all_flash/all_flash.j33ap.production/iBoot.j33ap.RELEASE.img3": {
+   "kbag": "6cf7c7147bf8c208652802ebc94c42caa4d981b54e6f9166cfa617fc3ac2bc23358de00d902fc46536c67e976488c819",
+   "filename": "Firmware/all_flash/all_flash.j33ap.production/iBoot.j33ap.RELEASE.img3",
+   "digests": [
+    "f2c910f657adb662f1875ec593fe20c63999f0fb"
+   ],
+   "names": [
+    "iBoot"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)"
+   ],
+   "date": "2024-08-21T20:00:22Z",
+   "iv": "dc1604099be59369b2531b2bdea77d8d",
+   "key": "4251f444466ee55fff928a8cd09968ba9d13ab2e332a48084823b5569ec068fd"
+  }
+ },
+ "urls": [
+  "https://secure-appldnld.apple.com/iOS7.1/031-4643.20140310.5wEEO/AppleTV3,1_6.1_11D169b_Restore.ipsw"
+ ]
+}
