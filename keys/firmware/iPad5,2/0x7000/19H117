@@ -1,0 +1,392 @@
+{
+ "version": "1.0",
+ "ProductType": "iPad5,2",
+ "BuildTrain": "SkySecuritySydneyB",
+ "ProductBuildVersion": "19H117",
+ "ProductVersion": "15.7.1",
+ "cpid": "0x7000",
+ "bdid": "0xa",
+ "keys": {
+  "Firmware/098-03663-020.dmg.mtree": {
+   "kbag": "",
+   "filename": "Firmware/098-03663-020.dmg.mtree",
+   "digests": [
+    "f9e40e2e980153391e65fb41442f18524c9785e0"
+   ],
+   "names": [
+    "Ap,SystemVolumeCanonicalMetadata"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/applelogo@2x~ipad.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/applelogo@2x~ipad.im4p",
+   "digests": [
+    "431bf3dad75e4e090d66c2e552e6ad07dc6a18ba",
+    "7ea22794077b9f33dccc7194bc9f715c29bc6ad2"
+   ],
+   "names": [
+    "AppleLogo",
+    "RestoreLogo"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/batterycharging0@2x~ipad.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/batterycharging0@2x~ipad.im4p",
+   "digests": [
+    "8de00f49829a145f86c9968154bfa04a1795c43d"
+   ],
+   "names": [
+    "BatteryCharging0"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/batterycharging1@2x~ipad.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/batterycharging1@2x~ipad.im4p",
+   "digests": [
+    "4ea6ec9cbb3cb20cf8a6df9a71701c4d004b0b43"
+   ],
+   "names": [
+    "BatteryCharging1"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/batteryfull@2x~ipad.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/batteryfull@2x~ipad.im4p",
+   "digests": [
+    "14d746387411a7daf082bb6193743edf8b410a65"
+   ],
+   "names": [
+    "BatteryFull"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/batterylow0@2x~ipad.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/batterylow0@2x~ipad.im4p",
+   "digests": [
+    "471343512218917b22ca1a368f0a68f3607acb7c"
+   ],
+   "names": [
+    "BatteryLow0"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/batterylow1@2x~ipad.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/batterylow1@2x~ipad.im4p",
+   "digests": [
+    "682723c312a93e4452dc7f4524479e772426cf96"
+   ],
+   "names": [
+    "BatteryLow1"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/glyphplugin@2x~ipad-lightning.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/glyphplugin@2x~ipad-lightning.im4p",
+   "digests": [
+    "bd59003df8234dcf5a4d4736daa9ca91f3b13ae5"
+   ],
+   "names": [
+    "BatteryPlugin"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/DeviceTree.j97ap.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/DeviceTree.j97ap.im4p",
+   "digests": [
+    "a18f5f4f83b8860115c36b5f29a1b0b45d67796a",
+    "0ea906b5886bb260f273c79ebae626af72af09d8"
+   ],
+   "names": [
+    "DeviceTree",
+    "RestoreDeviceTree"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z",
+   "iv": "",
+   "key": ""
+  },
+  "kernelcache.release.ipad5": {
+   "kbag": "",
+   "filename": "kernelcache.release.ipad5",
+   "digests": [
+    "cda437712205f1cbcc11646d6e824059c2240136",
+    "099de8e9262f8d8b9d14109cc81e40bbcaa221dd"
+   ],
+   "names": [
+    "KernelCache",
+    "RestoreKernelCache"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/LLB.ipad5.RELEASE.im4p": {
+   "kbag": "1b9a29a97b54ff15ff4bb27506f087a583b4f1c17c0d0ac957e56aaa3dd172b547733c99603daffbb61a41f8cd8b3028",
+   "filename": "Firmware/all_flash/LLB.ipad5.RELEASE.im4p",
+   "digests": [
+    "c52aa94da8df76ef9267c3e3246f9df350a4f12a"
+   ],
+   "names": [
+    "LLB"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z",
+   "iv": "fdca6180eb050e41e7e16769d02fb8ac",
+   "key": "107ef2b331455a49ae9979c9e3944764146b125d98eb589a941b80034e2d5124"
+  },
+  "Firmware/all_flash/recoverymode@2x~ipad-lightning.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/recoverymode@2x~ipad-lightning.im4p",
+   "digests": [
+    "f524f8e51e25ce199d1cb4141bd1359ab874b8e1"
+   ],
+   "names": [
+    "RecoveryMode"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z",
+   "iv": "",
+   "key": ""
+  },
+  "098-03675-020.dmg": {
+   "kbag": "",
+   "filename": "098-03675-020.dmg",
+   "digests": [
+    "859ee4a0139b4295f4deec9a30e1400d603cb78d"
+   ],
+   "names": [
+    "RestoreRamDisk",
+    "EraseRamdisk"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/sep-firmware.j97.RELEASE.im4p": {
+   "kbag": "47c7615c2a0fc90a815c37d54a2d17add4a004076c21af267bf75fa02c14944b700da392788c856c1ea4810dcd10aff4",
+   "filename": "Firmware/all_flash/sep-firmware.j97.RELEASE.im4p",
+   "digests": [
+    "2f4b104d838bdd55f032a39f6bcc48ac48f4ca3e",
+    "bfa07dbfb2f2e4d3e6abdb70fd86a1e0401f9631"
+   ],
+   "names": [
+    "RestoreSEP",
+    "SEP"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z"
+  },
+  "Firmware/098-03675-020.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/098-03675-020.dmg.trustcache",
+   "digests": [
+    "f07511b8164a56b42024327b614bc4086c8eceb0"
+   ],
+   "names": [
+    "RestoreTrustCache"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/098-03663-020.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/098-03663-020.dmg.trustcache",
+   "digests": [
+    "98b0702b1a490a5630cfa5325e72cfa75fd1bb72"
+   ],
+   "names": [
+    "StaticTrustCache"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/098-03663-020.dmg.root_hash": {
+   "kbag": "",
+   "filename": "Firmware/098-03663-020.dmg.root_hash",
+   "digests": [
+    "5491845d24a4e3f0c0ec628cebb89195ba0bb4b6"
+   ],
+   "names": [
+    "SystemVolume"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/dfu/iBEC.ipad5.RELEASE.im4p": {
+   "kbag": "6bbfe43f43a482f8b7c91e0925702bd170118ed7ed05dc9fed54700987fd778fbfe0df495f0015a6caddc2931d404546",
+   "filename": "Firmware/dfu/iBEC.ipad5.RELEASE.im4p",
+   "digests": [
+    "f3989221626bcc6536c65c2dd9029610bd39e87e"
+   ],
+   "names": [
+    "iBEC"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z",
+   "iv": "55935a5972c4a86a838db77d63c3b9a8",
+   "key": "06e088bda127cc441e31ac273f264e76129783a69d7ab4fc6a9593d96982b4ae"
+  },
+  "Firmware/dfu/iBSS.ipad5.RELEASE.im4p": {
+   "kbag": "fa2547ccd15747b4a05eb04bb32d5208ef981da3cd05d9ee46c518b1b551b73ecc2930245e84f4ee634d591c4352ef68",
+   "filename": "Firmware/dfu/iBSS.ipad5.RELEASE.im4p",
+   "digests": [
+    "0edeef15e80f5f829ef00639566b0433ffdc03fd"
+   ],
+   "names": [
+    "iBSS"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z",
+   "iv": "fe0eb38778176aaf0f463290da63008c",
+   "key": "d108605fb667ac5581f974aea2e994f5978336d01486dae1e6680c34745a0a3d"
+  },
+  "Firmware/all_flash/iBoot.ipad5.RELEASE.im4p": {
+   "kbag": "f00345e2bc372677ba22342f689b990a03f23836e6d113b56c19eed1618687fa7e119d1b692a1af39f88ce15ac9142c3",
+   "filename": "Firmware/all_flash/iBoot.ipad5.RELEASE.im4p",
+   "digests": [
+    "a1e8e714c7248354dc5af5b451b7e59056a19ba0"
+   ],
+   "names": [
+    "iBoot"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:17Z",
+   "iv": "2b8766522c5764f94e8ad0b1e33937fc",
+   "key": "58ffd072746f4d228ce11eae41baee58ba47c249a1814ccb2def2cbd97d654fe"
+  },
+  "098-03382-020.dmg": {
+   "kbag": "",
+   "filename": "098-03382-020.dmg",
+   "digests": [
+    "ffd09d4719a117bc6bd0416c1b0de29ff7767f96"
+   ],
+   "names": [
+    "RestoreRamDisk",
+    "UpgradeRamdisk"
+   ],
+   "variants": [
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:21Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/098-03382-020.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/098-03382-020.dmg.trustcache",
+   "digests": [
+    "5c42a503ade6c104c7ee0a7cffa32c08bd018fdd"
+   ],
+   "names": [
+    "RestoreTrustCache"
+   ],
+   "variants": [
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2024-09-03T18:16:21Z",
+   "iv": "",
+   "key": ""
+  }
+ },
+ "urls": [
+  "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-95124/A4A258F0-22D9-4057-95C9-10BEFCC64B26/iPad_64bit_TouchID_15.7.1_19H117_Restore.ipsw"
+ ]
+}
