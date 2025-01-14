@@ -1,9 +1,9 @@
 {
  "version": "1.0",
  "ProductType": "Watch3,1",
- "BuildTrain": "Dolphin",
- "ProductBuildVersion": "15S600b",
- "ProductVersion": "4.2.3",
+ "BuildTrain": "CatamaranSeed",
+ "ProductBuildVersion": "15S5090c",
+ "ProductVersion": "4.2",
  "cpid": "0x8004",
  "bdid": "0x1c",
  "keys": {
@@ -19,7 +19,7 @@
    "variants": [
     "Customer Software Update"
    ],
-   "date": "2025-01-14T10:17:21Z",
+   "date": "2025-01-14T13:50:32Z",
    "iv": "",
    "key": ""
   },
@@ -27,7 +27,7 @@
    "kbag": "",
    "filename": "Firmware/aciwififirmware/wifi_armv7r_m8p_rtkit_image.im4p",
    "digests": [
-    "f36755cde8ce63de8906d15677ed02ed3210e0106699cb4004a1c5b1129d2fb54c89ea5fd760b2675422f13178a80baa"
+    "d3ee59fafc70b3f286cfa0938cf55b75c3aa62a73f6d027c20cad17b2b0bfc4508cccc2743537155bcf273d91b0f0783"
    ],
    "names": [
     "ACIWIFI"
@@ -35,7 +35,7 @@
    "variants": [
     "Customer Software Update"
    ],
-   "date": "2025-01-14T10:17:21Z",
+   "date": "2025-01-14T13:50:32Z",
    "iv": "",
    "key": ""
   },
@@ -43,7 +43,7 @@
    "kbag": "",
    "filename": "Firmware/AOP/aopfw-m8paop.im4p",
    "digests": [
-    "94857cac15713a4ac8f6850c1b5af4f0c9424b981dbc785a5f0246b09f601fbd99257b632e7bf8540d2cdabeea69939a"
+    "12b4853226288a33ec059632fa5b5f3698d46cd3e016d5c4dba7e912d560c3de1cd1a6f14da0bb7f30c986aa01c69a5f"
    ],
    "names": [
     "AOP"
@@ -51,7 +51,7 @@
    "variants": [
     "Customer Software Update"
    ],
-   "date": "2025-01-14T10:17:21Z",
+   "date": "2025-01-14T13:50:32Z",
    "iv": "",
    "key": ""
   },
@@ -69,7 +69,7 @@
    "variants": [
     "Customer Software Update"
    ],
-   "date": "2025-01-14T10:17:21Z",
+   "date": "2025-01-14T13:50:32Z",
    "iv": "",
    "key": ""
   },
@@ -85,7 +85,7 @@
    "variants": [
     "Customer Software Update"
    ],
-   "date": "2025-01-14T10:17:21Z",
+   "date": "2025-01-14T13:50:32Z",
    "iv": "",
    "key": ""
   },
@@ -93,8 +93,8 @@
    "kbag": "",
    "filename": "Firmware/all_flash/DeviceTree.n111sap.im4p",
    "digests": [
-    "5958bc0429d7d1a93fb0875abeb584422cda411acc3c6137316a9535285d564c2533f91cbfbb9d09d6b09723bd92426b",
-    "99f4c7cc6f6f84afeb33e75a99257fa82232616e4e70d7045e45f968ac011570ecd9cc49951f11914e4a8882f5d289e2"
+    "2b1d4a972644f15a9bf5a7f85235af7fcc9ab4db9de0366e6ba5dfeb2ef46bd30552178c01db1ecddcee0625c01c204f",
+    "cffad67d618d87ea48b0ae6ddee93fcfe7586be5ce563e6b569480abaff3ebcc16d3fb619c3bb0710aed26bc0b28d328"
    ],
    "names": [
     "DeviceTree",
@@ -103,7 +103,7 @@
    "variants": [
     "Customer Software Update"
    ],
-   "date": "2025-01-14T10:17:21Z",
+   "date": "2025-01-14T13:50:32Z",
    "iv": "",
    "key": ""
   },
@@ -111,8 +111,8 @@
    "kbag": "",
    "filename": "kernelcache.release.watch3",
    "digests": [
-    "1188fbe6075974842c4713e131d855df15c3c107e78d802eaf95486cf77c0d9033dc1cfa7deddb62dcce845e9dd16127",
-    "d861592d43d19628b219261709b9940b65ca377864b01e9544ad80427a9a666e30c8131c14c0501740c888b34febd7e5"
+    "26d56d8648a279e86891ca6ddfd7f863c1a1c143b6130ed59fa193b979fe49798b15f302deeb3ad78f9e243d471c071f",
+    "5fb381b234429e651247c1929578b4ca8032712f1255c7ef14eed558923da62859bbedffe1e323c1dddd96ee0349a138"
    ],
    "names": [
     "KernelCache",
@@ -121,15 +121,15 @@
    "variants": [
     "Customer Software Update"
    ],
-   "date": "2025-01-14T10:17:21Z",
+   "date": "2025-01-14T13:50:32Z",
    "iv": "",
    "key": ""
   },
   "Firmware/all_flash/LLB.n111s.RELEASE.im4p": {
-   "kbag": "c6fd0fee0052c5684e604b0b6bf0512d5c01322a1c2e53db1c180690fb3f076fa9e8c6b67e227000f9739354aa43d09c",
+   "kbag": "4fd4bbd53523738836dab075c3e2dad8d484a0b541d320cf4bc63c94a0d5b3f0839444f39b7958bce86bc9ab21a8745c",
    "filename": "Firmware/all_flash/LLB.n111s.RELEASE.im4p",
    "digests": [
-    "aece50922e71b563fba1081971a5fd3fd765f8ab6ec4608c529d6e851185af7295afa9667087c09a67fd78587fe6ecd0"
+    "2667338ef122d0663e72d3a076ee40c77a21412b787e0727991f7e4f4fda4aea02d52d94b8bca411fb9517d80885aad0"
    ],
    "names": [
     "LLB"
@@ -137,9 +137,9 @@
    "variants": [
     "Customer Software Update"
    ],
-   "date": "2025-01-14T10:17:21Z",
-   "iv": "14321ee8a1c5b02b62c3a87b10acc7d4",
-   "key": "7ce9c40cbe9a3738ed03c3513c40eba9c109be0d1b522dbeab689e3e6e6eb299"
+   "date": "2025-01-14T13:50:32Z",
+   "iv": "058d6fd4f08a36aade450efcb99832af",
+   "key": "1c1debdec5d0b0c420406b9b58d447f58e7a65f933b7c747d083979d8caea1e0"
   },
   "Firmware/N111s_Multitouch.im4p": {
    "kbag": "",
@@ -153,7 +153,7 @@
    "variants": [
     "Customer Software Update"
    ],
-   "date": "2025-01-14T10:17:21Z",
+   "date": "2025-01-14T13:50:32Z",
    "iv": "",
    "key": ""
   },
@@ -161,7 +161,7 @@
    "kbag": "",
    "filename": "Firmware/rtpfw.im4p",
    "digests": [
-    "cd190d64ab50c4493cde04c41377ed138dc9c372ecad0fee8a6110fe234a5646c2f1354304b7cf6f4cd563198026477b"
+    "a85385661092c1ecf5c4981385fb2325ea899278cebbaba8ff24b228db97f991d94448454b170b53edeb1a1148174416"
    ],
    "names": [
     "RTP"
@@ -169,7 +169,7 @@
    "variants": [
     "Customer Software Update"
    ],
-   "date": "2025-01-14T10:17:21Z",
+   "date": "2025-01-14T13:50:32Z",
    "iv": "",
    "key": ""
   },
@@ -185,15 +185,15 @@
    "variants": [
     "Customer Software Update"
    ],
-   "date": "2025-01-14T10:17:21Z",
+   "date": "2025-01-14T13:50:32Z",
    "iv": "",
    "key": ""
   },
-  "058-96688-042.dmg": {
+  "058-89100-025.dmg": {
    "kbag": "",
-   "filename": "058-96688-042.dmg",
+   "filename": "058-89100-025.dmg",
    "digests": [
-    "f9a47b5e344027bd0649b83bd432f69d3a9fbb0250083694d44a1516419fd7ab67104437b43c47f45bd103329ae0659f"
+    "40cd856949b57ecd0392eebd7a1e1d9acdc71fc56e1bffbec6e42bdcb33aae09f8141f89aeac552d0950cc2dea2e6a1d"
    ],
    "names": [
     "RestoreRamDisk",
@@ -202,16 +202,16 @@
    "variants": [
     "Customer Software Update"
    ],
-   "date": "2025-01-14T10:17:21Z",
+   "date": "2025-01-14T13:50:32Z",
    "iv": "",
    "key": ""
   },
   "Firmware/all_flash/sep-firmware.n111s.RELEASE.im4p": {
-   "kbag": "9f88f890c3411f9be6979093c2afbb2abd4018fffde56f92e1863788297ad5aacabe08fdaeca37eb8b36bad344215b6d",
+   "kbag": "db0f70ffaa927af605b4870382f74ead09167d01a60c3e27b0ecbf88dc50a9d68495b23cc8dadc5535fa931ffa9ab04e",
    "filename": "Firmware/all_flash/sep-firmware.n111s.RELEASE.im4p",
    "digests": [
-    "3f85306635ecdefe242eddc41f507ada3204ac8eb14cd3c1f47fb058f3e0eaa63759deb338342cbd39465cd14ade658b",
-    "1136b118737bae923aa289551737494fc97a3a384ac7853af9c08e19dfe936021128a2441f3ee6e120bfbc6ada89d98a"
+    "16d79e2337000863f14b0c98eb9324cba59b36902d7f9dfd45f346e39d42a92e959da8025804f5ae78df1f47491c41b1",
+    "e2d3546ab135ba3ec7f2df8bb3969918facde7705a26177403c2d43a8d924a44117d92fb8df00333facf2d0998fcf5f1"
    ],
    "names": [
     "RestoreSEP",
@@ -220,13 +220,13 @@
    "variants": [
     "Customer Software Update"
    ],
-   "date": "2025-01-14T10:17:21Z"
+   "date": "2025-01-14T13:50:32Z"
   },
   "Firmware/dfu/iBEC.n111s.RELEASE.im4p": {
-   "kbag": "616d1e725ade31abf63b2f662ed5d7d5c8d91b54320ab69f3316d542723c6e600c6ac855397b1765a950423f54e3e4e8",
+   "kbag": "e48f5b60b30ff8d2f4fdfbe4a9c8b1df63b6901bc408e0b678d02ef29b1d96079f4fb87fb36fc863ff9ee4bafc7268c6",
    "filename": "Firmware/dfu/iBEC.n111s.RELEASE.im4p",
    "digests": [
-    "45a0c0e3b4e9dfa57a8bc282849497278d482bab4ff7768de441176613bf8519424182ad4f6badf4e90dddd19ae7acc3"
+    "e15b79ade9cc1e40b39bc20b125c890dde96699d9c4f380cf4cfead4a50180e5f985b1c247e07d7d5aca549d78618132"
    ],
    "names": [
     "iBEC"
@@ -234,15 +234,15 @@
    "variants": [
     "Customer Software Update"
    ],
-   "date": "2025-01-14T10:17:21Z",
-   "iv": "32004c35c47c089e498034fc1cc50a3c",
-   "key": "1ebe50fb7bc1d9c09e837ee000a6b895a30990e1a85fb19262682a9fd9c42a35"
+   "date": "2025-01-14T13:50:32Z",
+   "iv": "dc703df72a84a6a2991cfe0285670147",
+   "key": "cada5adb668bd842505e18734e808448020a5762a2dc49754ab7f3fedb7a128b"
   },
   "Firmware/dfu/iBSS.n111s.RELEASE.im4p": {
-   "kbag": "3ee2e143f41c538a91d82400177980b85234cc8403e652b77d44f900b78805ad5cca5e0e4db536c5543189108069b914",
+   "kbag": "03928b01366c8764e6bf655a06db4f255ea5ac941b365ea022d0871a944313f6271108780e1a445a3389dbbb83537b33",
    "filename": "Firmware/dfu/iBSS.n111s.RELEASE.im4p",
    "digests": [
-    "a622809ec85de84dc536a16e4dca63a06c1130eeae3147ac549135e63ed599adb3c1a3dcf4d79343d88fb88894756fde"
+    "74989c920d2448239582c61ab70f613606f2341bb9d08fd7455211c0c3fee73a0e8d80af3d9394e69c43bae8011ec43b"
    ],
    "names": [
     "iBSS"
@@ -250,15 +250,15 @@
    "variants": [
     "Customer Software Update"
    ],
-   "date": "2025-01-14T10:17:21Z",
-   "iv": "2bd3add3d904583cf60c5ea714cd135c",
-   "key": "12b9d751a94c4271bbf2520670967ce33206cbb172095bc74f270f910541e18a"
+   "date": "2025-01-14T13:50:32Z",
+   "iv": "eb99615d08d9143406954de785855608",
+   "key": "4bde97fbca3621b791883edc0194d54933d776af2e325d114c8ce40225d7cced"
   },
   "Firmware/all_flash/iBoot.n111s.RELEASE.im4p": {
-   "kbag": "81b30e187dabb1f51ffbbc2b75558a370e592ee4a75ac4a6a655c39bbd4291b49d454b3f45c4fdeddcf5e30d0cbd592e",
+   "kbag": "59944943d8a4fb5f9392fe44f5f6eb587adc4fb48a01bfe9317f0eb9fc483ec18fe30c30365eeca0873dbabba87c13b3",
    "filename": "Firmware/all_flash/iBoot.n111s.RELEASE.im4p",
    "digests": [
-    "d83f7b467e68d15d24a5f6bc27c2ee107e32bb98e8e3c7d877e0b606fc11f00ee701c36164a04d2875bf26c8e4ffcfb0"
+    "69e07afd0de8a97c88825041cd745c981670c74c6759706d8922cd27075621e1cb51f99eeab1f898a270e4cd15e44524"
    ],
    "names": [
     "iBoot"
@@ -266,13 +266,12 @@
    "variants": [
     "Customer Software Update"
    ],
-   "date": "2025-01-14T10:17:21Z",
-   "iv": "74782c625dc400bc30384e0f9ca42e2b",
-   "key": "2e15f545b87471df3b3b25e1632f30ee4ef75ee9f60c348113986b5a7b086878"
+   "date": "2025-01-14T13:50:32Z",
+   "iv": "d4d13fbf16984ce82b24ef4ee64c13ea",
+   "key": "67c76c0449ac152ad842c1070fdc46d9932b4fa3dd44e531526e953d83cabc90"
   }
  },
  "urls": [
-  "http://appldnld.apple.com/watchos4.2.3/091-69505-20180219-1551AAFE-130C-11E8-9BC9-AA6DE0A71A1F/com_apple_MobileAsset_SoftwareUpdate/3028535487f133c3416ac6fbb0ce88a5cb856f47.zip",
-  "https://secure-appldnld.apple.com/watchos4.2.3/091-69505-20180219-1551AAFE-130C-11E8-9BC9-AA6DE0A71A1F/com_apple_MobileAsset_SoftwareUpdate/3028535487f133c3416ac6fbb0ce88a5cb856f47.zip"
+  "https://secure-appldnld.apple.com/watchos4.2seed/091-43007-20171106-7CF1A414-C007-11E7-80C4-EAF3682136F1/com_apple_MobileAsset_SoftwareUpdate/548d443d6abab856ff0fea0516cdb05d57634243.zip"
  ]
 }
