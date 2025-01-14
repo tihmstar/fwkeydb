@@ -50,8 +50,8 @@ jobs:
           rm "$BUILDROOT.zip"
         done
         echo "moving dependencies to /"
+        sudo chmod +x $BUILDROOT/usr/local/bin/*
         sudo cp -r $BUILDROOT/* /
-        sudo chmod +x /usr/local/bin/*
         cd ..
         rm -rf depdir
     - name: download fwkeydb_tools
