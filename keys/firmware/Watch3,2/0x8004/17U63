@@ -1,0 +1,306 @@
+{
+ "version": "1.0",
+ "ProductType": "Watch3,2",
+ "BuildTrain": "GraceG",
+ "ProductBuildVersion": "17U63",
+ "ProductVersion": "6.2.8",
+ "cpid": "0x8004",
+ "bdid": "0x1e",
+ "keys": {
+  "Firmware/ACIBTFirmware/BT_FW.im4p": {
+   "kbag": "",
+   "filename": "Firmware/ACIBTFirmware/BT_FW.im4p",
+   "digests": [
+    "3b1d348a141d123ad0358760ab127b27344f38f24cd08215930d463341b16c8513b941400708c4f3b76cff70744f6e8c"
+   ],
+   "names": [
+    "ACIBT"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-14T10:47:12Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/aciwififirmware/wifi_armv7r_m8p_rtkit_image.im4p": {
+   "kbag": "",
+   "filename": "Firmware/aciwififirmware/wifi_armv7r_m8p_rtkit_image.im4p",
+   "digests": [
+    "744e21f5ae312b87eff47a059990685b050e92876d85efa40b95b5796245ff156814e215e29aeb23412851841a531288"
+   ],
+   "names": [
+    "ACIWIFI"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-14T10:47:12Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/AOP/aopfw-m8paop.im4p": {
+   "kbag": "",
+   "filename": "Firmware/AOP/aopfw-m8paop.im4p",
+   "digests": [
+    "74dc84bdb68e130c7d51afaf2724b3abd852437882ba90e55fbaf606a876419772e6dcdf365033933405f4d81e474821"
+   ],
+   "names": [
+    "AOP"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-14T10:47:12Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/applelogo@132~watch.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/applelogo@132~watch.im4p",
+   "digests": [
+    "f42e6fe19a51447e3120eab823a5031ea661eabe26c47dd306e5e53b2fbe92bc17eaae6366eabe8fd1c9e0809daacbb9",
+    "3b626ecc7d173556b13659544285a4950eb36ce3fcd6c6ab7fdb955d29d2717d740d8d64ef1fd67fcdd932033d7ca4ff"
+   ],
+   "names": [
+    "AppleLogo",
+    "RestoreLogo"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-14T10:47:12Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/dali-ui.n111b.release.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/dali-ui.n111b.release.im4p",
+   "digests": [
+    "7379c5801ecc3a9d4801c51f0363adbd9d5e0ee7ebc128d95b5f44014d155aa78ddbae4b5ff801c7df2bdc37103295ef"
+   ],
+   "names": [
+    "Dali"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-14T10:47:12Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/DeviceTree.n111bap.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/DeviceTree.n111bap.im4p",
+   "digests": [
+    "c856efe242b80d2e4227664effd04e694a5c5fdb887ce60f0a2417eeccd4d6a6a156a80c6ad0c030f79049f91c96f4a7",
+    "bb9a685110db0f53c66659151cdb815dd8845282befa9a89338a9a3ccf30b208943f8753c8265d34a6d6b8de69d59deb"
+   ],
+   "names": [
+    "DeviceTree",
+    "RestoreDeviceTree"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-14T10:47:12Z",
+   "iv": "",
+   "key": ""
+  },
+  "kernelcache.release.watch3": {
+   "kbag": "",
+   "filename": "kernelcache.release.watch3",
+   "digests": [
+    "855cc0fcf7fc141f3b4c2e9564320e931c1419c20ef1b64b5fc1898c803e3943f679d69924351c5bce0de4e431ad17f9",
+    "3caadcb1f6042bbca79dfafbda82890bbd87a600a6be78948f436f9679ab251ccf5e54ef16d95d50adcb77412c9f5237"
+   ],
+   "names": [
+    "KernelCache",
+    "RestoreKernelCache"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-14T10:47:12Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/LLB.n111b.RELEASE.im4p": {
+   "kbag": "00751833441c0c7b9842c5427187a4fda8697ed814f1f06774e2b6fd81121881e9f2d3ae8fd855257b3d1f4220c8e35f",
+   "filename": "Firmware/all_flash/LLB.n111b.RELEASE.im4p",
+   "digests": [
+    "3217cffd99cbf2ce3cf296d49c56d5cd9556841b5a86c5848adf0cd1c79f24f99e3f83f110d0ca7241cd8dd6b9c565e5"
+   ],
+   "names": [
+    "LLB"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-14T10:47:12Z",
+   "iv": "055ed88bb4cc63b7811b6f5000c53bae",
+   "key": "13ec3088ff875ff617884cb3f93ef954cf27316108195ea5bd523cbcf28f13fb"
+  },
+  "Firmware/N111b_Multitouch.im4p": {
+   "kbag": "",
+   "filename": "Firmware/N111b_Multitouch.im4p",
+   "digests": [
+    "0d27c693a4f0051e9a15f495214ec576c8d6e694460a26e6abe5fd2e6a155f327f689f73d7962edd42e859df20bb2ea2"
+   ],
+   "names": [
+    "Multitouch"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-14T10:47:12Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/rtpfw.im4p": {
+   "kbag": "",
+   "filename": "Firmware/rtpfw.im4p",
+   "digests": [
+    "068d40f47728e2172012833ab9793fced70ca66505949e4cc7ede16afd39a1afedc6a358d47e801189de97861defcb3b"
+   ],
+   "names": [
+    "RTP"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-14T10:47:12Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/recoverymode@132~watch.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/recoverymode@132~watch.im4p",
+   "digests": [
+    "6194dcab034f33fadf8f8723ded73f28adc2c9cf35812f90fe9d2aebb16b6bdfed72e4146af1c03e53d23dcf484edc9b"
+   ],
+   "names": [
+    "RecoveryMode"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-14T10:47:12Z",
+   "iv": "",
+   "key": ""
+  },
+  "038-52558-070.dmg.image-img4": {
+   "kbag": "",
+   "filename": "038-52558-070.dmg.image-img4",
+   "digests": [
+    "e310dbbc1ad147e614010a574782841dd075ed1cb316f8a832d0f89b18661f7d7f52155ce0f84bab196f38263a188447"
+   ],
+   "names": [
+    "RestoreRamDisk",
+    "OTARamdisk"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-14T10:47:12Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/sep-firmware.n111b.RELEASE.im4p": {
+   "kbag": "e22686988994ebd2cbc48507beb87f24ca16f5dea4b52b0391b3113787d93a4be97551e40e827ea0d8eb29e294742181",
+   "filename": "Firmware/all_flash/sep-firmware.n111b.RELEASE.im4p",
+   "digests": [
+    "23d0e59c2c77ee656414450a3cdf1100883133b6d44e6e1eda79c4b5c341196b9b415e0d8f80e76fd2201fb3698003d9",
+    "ed404cf65157325cd9da5c9973f20b24206842939cfee2417fb5489c2b381fc050f193ebb00ee1499c1e8bc0dea90153"
+   ],
+   "names": [
+    "RestoreSEP",
+    "SEP"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-14T10:47:12Z"
+  },
+  "Firmware/038-52558-070.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/038-52558-070.dmg.trustcache",
+   "digests": [
+    "b371f75756e0d63057b40ce48f823f90e91530477d2e2bb3c7bdf8780e60ae78b1c1caa38a599f29c211614d9fc3a745"
+   ],
+   "names": [
+    "RestoreTrustCache"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-14T10:47:12Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/038-52092-070.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/038-52092-070.dmg.trustcache",
+   "digests": [
+    "2a4974da0b2a6cd843f1aa5251e3d8122ccde2e8cf49e11f80a8f0cccc9b441df204f6e792b08303642cb9c44553eca9"
+   ],
+   "names": [
+    "StaticTrustCache"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-14T10:47:12Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/dfu/iBEC.n111b.RELEASE.im4p": {
+   "kbag": "3220e934f1e18953fd6d84a8dc208ae4031651b9a2a41b04334d8cb4d200217279fbe2c1261cb92cce8862c68639e979",
+   "filename": "Firmware/dfu/iBEC.n111b.RELEASE.im4p",
+   "digests": [
+    "4e29160b5b1040c2c541046555dfcfbb70cc0cd0b73d9584e621cb475e1ccf341d8211d671fb8ca050b05a60f3bc3314"
+   ],
+   "names": [
+    "iBEC"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-14T10:47:12Z",
+   "iv": "77274a745a2792d1be1d751c3567eb26",
+   "key": "5ce9aec4b0669e2c53c1852d49f2c274d99047de4e3a62b0977a0914ca3c894f"
+  },
+  "Firmware/dfu/iBSS.n111b.RELEASE.im4p": {
+   "kbag": "f05fe9bda3c48b3127b2bc13ed575dff6a28f7dcdfc5dea02b8edb48a9fe3aa4cf356fdf0f7b46bea985c913a0f9ba96",
+   "filename": "Firmware/dfu/iBSS.n111b.RELEASE.im4p",
+   "digests": [
+    "05efdd527da22dedda9011a4cc1237034e5a8fb68e468a16627d507e390a56f6b52cdb01e76c5e658f7af91ef0f12566"
+   ],
+   "names": [
+    "iBSS"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-14T10:47:12Z",
+   "iv": "10bf78254930cadffaef60d3589bd417",
+   "key": "ca0bece612e8dc4da03a7e3cf669383dfb801bdafa76d6b3450247e4ea7ee787"
+  },
+  "Firmware/all_flash/iBoot.n111b.RELEASE.im4p": {
+   "kbag": "2178692785780350e5073b8816174773481fb8abf9449347319b0f0768028fe1c2cef32e4fc36b2b8928a66b6d13f68c",
+   "filename": "Firmware/all_flash/iBoot.n111b.RELEASE.im4p",
+   "digests": [
+    "10383bef07111ae106b049645270d9c94d13fa1e85e7a1c2ba68a8101a599f86a25f36b3f97f1e6f7ec5aaf741482338"
+   ],
+   "names": [
+    "iBoot"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-14T10:47:12Z",
+   "iv": "84a3a4c8a59dcd36f03355939613662b",
+   "key": "d68912fdadc7fbba1c52ba9b734ff09bf711b89a5b834f47f9a054084208cef0"
+  }
+ }
+}
