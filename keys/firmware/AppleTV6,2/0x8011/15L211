@@ -1,0 +1,197 @@
+{
+ "version": "1.0",
+ "ProductType": "AppleTV6,2",
+ "BuildTrain": "Eaton",
+ "ProductBuildVersion": "15L211",
+ "ProductVersion": "11.3",
+ "cpid": "0x8011",
+ "bdid": "0x2",
+ "keys": {
+  "Firmware/AOP/aopfw-j105aaop.im4p": {
+   "kbag": "",
+   "filename": "Firmware/AOP/aopfw-j105aaop.im4p",
+   "digests": [
+    "14dbe2c5f33b1501b4e49f65dc97034833e01afed199b7a20426262a303e8b447b67a151ab4a7970a9bb54cff35631f1"
+   ],
+   "names": [
+    "AOP"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-15T14:46:12Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/applelogo~appletv.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/applelogo~appletv.im4p",
+   "digests": [
+    "fe69d240361d8b13a3873ccc550cca29541094685d6776ed0e7d4fc31b8d4ccc4bb040dda7951a68c1b73942889054d5",
+    "c1695f3a3b0e9018ccc6983ba962f38ec7f5eca570882ee68810cb33d4a3b9dfcd22bb39e0b01b73797cc8387e75ac1e"
+   ],
+   "names": [
+    "AppleLogo",
+    "RestoreLogo"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-15T14:46:12Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/DeviceTree.j105aap.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/DeviceTree.j105aap.im4p",
+   "digests": [
+    "dd2823caa0677a0b659415939b85abbf8b1fddfab21f87095a7aeec93323ed26f58e85a2e129b3b496e080b7694e1502",
+    "db031a375550d940d10b1bb1c9c173fe5c1eaaeb3c63fca5704c11b27ca7e86e02caa41394192da76ab749548fdcd4ef"
+   ],
+   "names": [
+    "DeviceTree",
+    "RestoreDeviceTree"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-15T14:46:12Z",
+   "iv": "",
+   "key": ""
+  },
+  "kernelcache.release.j105a": {
+   "kbag": "",
+   "filename": "kernelcache.release.j105a",
+   "digests": [
+    "93930dbe6705ba85cb100b459eb0b73f03a1b642a5bf2d1df280e7711fbd98dac9cccf334f0ac4e01f8e16e11777635c",
+    "63825e2de250e631a296f72be7b2e96e7f5f74b34e3defa2cbe7654ac485e7ea5c5b8af4c21a32339d31dce95166efb3"
+   ],
+   "names": [
+    "KernelCache",
+    "RestoreKernelCache"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-15T14:46:12Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/LLB.j105a.RELEASE.im4p": {
+   "kbag": "8a0ab4fba6a38bfba54ef56c54096d9665eaf0b7b8e7326594375909780a11c9a19ad690a82707002df8b83119bd9ea9",
+   "filename": "Firmware/all_flash/LLB.j105a.RELEASE.im4p",
+   "digests": [
+    "f767158ecf5619466b0d8fe7a595f700db85be37fb73c90c14e07bb65b50a7a0061aa4445dedac63fd54cdbdb071844b"
+   ],
+   "names": [
+    "LLB"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-15T14:46:12Z",
+   "iv": "88f2092c4683cfd4161b425ff7dc13d3",
+   "key": "3450aff33589bbd7e291de6d6e1ead0b59f5e3b223ad5d3e7cedf2f3a101028c"
+  },
+  "Firmware/all_flash/recoverymode@1080~appletv5.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/recoverymode@1080~appletv5.im4p",
+   "digests": [
+    "c3e6e843dca023c1ab4e2532c67d0af2dfcd6f816ce5783858e03ccf8ca5880efa88f39a27b79b42e97bd57c20aa7e83"
+   ],
+   "names": [
+    "RecoveryMode"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-15T14:46:12Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/sep-firmware.j105a.RELEASE.im4p": {
+   "kbag": "3c582face030f89f604a86c6885202dd784dc38023989ffca30f9ee081f31446e98af4d6306732d0ca661cca4de431e8",
+   "filename": "Firmware/all_flash/sep-firmware.j105a.RELEASE.im4p",
+   "digests": [
+    "ce3b78e0cf9063b23bb8e76873b73a0a3ebd54ab8d46e20652b4baf4e9db1c018b22ea3c790531dae25fcc0bd0ab497e",
+    "bac202ca03f92569443a82fbd742a5ee1c19b4e9a23c4a145f5810586618b1af9f79cc61a07d3280a62c3a4db7b88469"
+   ],
+   "names": [
+    "RestoreSEP",
+    "SEP"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-15T14:46:12Z"
+  },
+  "Firmware/dfu/iBEC.j105a.RELEASE.im4p": {
+   "kbag": "4199614c61e1bfa5bc08eacfee55d3442c10b6119c69919627160cfb896d4cdb12832d572170ea705fcd7622605dfba9",
+   "filename": "Firmware/dfu/iBEC.j105a.RELEASE.im4p",
+   "digests": [
+    "470731c2421ac9d05cc7617d794dd0aeca40a594f7f4103697fe5b890464a7d5e5801b5e3ca9b31e5eb3f75675ac3252"
+   ],
+   "names": [
+    "iBEC"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-15T14:46:12Z",
+   "iv": "6288f849b52d0602fe99da8b188d2a0d",
+   "key": "faeda22bbbe790307e6709d7287aa821209579fed192cde7ad678eb7c5b18ac2"
+  },
+  "Firmware/dfu/iBSS.j105a.RELEASE.im4p": {
+   "kbag": "a4d43375bb36029f6791f6823467e8af02a12ec83a07b4929563af6763dce40991272b4d5c787332f564d61430ff8cab",
+   "filename": "Firmware/dfu/iBSS.j105a.RELEASE.im4p",
+   "digests": [
+    "ee892e5534fac3417d66cf1cdbc66086d6ee48b9f320578422e764b06aacf8b447f6db879f319884a4bd812e151b22fe"
+   ],
+   "names": [
+    "iBSS"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-15T14:46:12Z",
+   "iv": "22ac2e4f80eeab1414881e1ee6c38ffc",
+   "key": "13b34052128e58f7d5f6e2423d7f5d068369cb258f8af97cd69ff1b43f5578ca"
+  },
+  "Firmware/all_flash/iBoot.j105a.RELEASE.im4p": {
+   "kbag": "f18e1209b74e69482fd144caf63d88b79fa941635c14df3703728fc5b0bb9ed99a3aceb4b66043cabfb71edc0a604134",
+   "filename": "Firmware/all_flash/iBoot.j105a.RELEASE.im4p",
+   "digests": [
+    "e7d9db8c3edcb956ff5eb1a1e57ac2607e09a30bb9f1b3638c55c411cc482fb7c94f1cab1f6f61947a05ea8116848965"
+   ],
+   "names": [
+    "iBoot"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-15T14:46:12Z",
+   "iv": "990737ef4136b3bb31fd7bdb5ec110f5",
+   "key": "039984ba4ac5c3da5c7f815758a2ec508f1e6a286de146d073cec1ef8df681fd"
+  },
+  "048-02152-093.dmg": {
+   "kbag": "",
+   "filename": "048-02152-093.dmg",
+   "digests": [
+    "045697469c404164541066d78a80df1272db4d64def6e5f395bcd8b79573f0457d7f241a01833ab3b14a47df843a5585"
+   ],
+   "names": [
+    "RestoreRamDisk",
+    "OTARamdisk"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-15T14:54:50Z",
+   "iv": "",
+   "key": ""
+  }
+ },
+ "urls": [
+  "https://secure-appldnld.apple.com/tvos11.3/091-45743-201803029-4375877E-2B9F-11E8-98B3-925D04115E15/com_apple_MobileAsset_SoftwareUpdate/2de4c3336d684b3a216b859061d19c0ce6b993bc.zip"
+ ]
+}
