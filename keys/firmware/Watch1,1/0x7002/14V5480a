@@ -1,0 +1,197 @@
+{
+ "version": "1.0",
+ "ProductType": "Watch1,1",
+ "BuildTrain": "FirefishSeed",
+ "ProductBuildVersion": "14V5480a",
+ "ProductVersion": "3.2.2",
+ "cpid": "0x7002",
+ "bdid": "0x2",
+ "keys": {
+  "Firmware/aopfw.im4p": {
+   "kbag": "",
+   "filename": "Firmware/aopfw.im4p",
+   "digests": [
+    "10ab7b68b44c78fe9944ee2cda2817a7c37d11aa"
+   ],
+   "names": [
+    "AOP"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-27T16:13:00Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/applelogo@115~watch.s7002.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/applelogo@115~watch.s7002.im4p",
+   "digests": [
+    "ea34e3298d51e86bee8283c4e9311d63d0f876e2",
+    "40e826b7dfa2fb1f9a652bd11f257ffe665fb9bb"
+   ],
+   "names": [
+    "AppleLogo",
+    "RestoreLogo"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-27T16:13:00Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/dali-ui.n27a.release.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/dali-ui.n27a.release.im4p",
+   "digests": [
+    "d8984a9a6c83e12335b4637b749e9ff65bf42468"
+   ],
+   "names": [
+    "Dali"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-27T16:13:00Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/DeviceTree.n27aap.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/DeviceTree.n27aap.im4p",
+   "digests": [
+    "ca19a21638701c2da0fa3311548974d3857fe258",
+    "5a47fcefba3e78e42d82ea82a29ef780c81e323b"
+   ],
+   "names": [
+    "DeviceTree",
+    "RestoreDeviceTree"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-27T16:13:00Z",
+   "iv": "",
+   "key": ""
+  },
+  "kernelcache.release.watch1": {
+   "kbag": "",
+   "filename": "kernelcache.release.watch1",
+   "digests": [
+    "7f11750cc6e45be0deadf10b8be87c73bf880282",
+    "aa757e040bfba36ef03f91ef3b46f394b85411bb"
+   ],
+   "names": [
+    "KernelCache",
+    "RestoreKernelCache"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-27T16:13:00Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/LLB.n27a.RELEASE.im4p": {
+   "kbag": "9c13ec6026ccea48a214a6e736e505ac00e6e9fdf6a7cc96dc8fd3372dd08270030320cc6a42689dddf75147619df45f",
+   "filename": "Firmware/all_flash/LLB.n27a.RELEASE.im4p",
+   "digests": [
+    "ec9799aaf6de6bd783675b79a9929983a5f59267"
+   ],
+   "names": [
+    "LLB"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-27T16:13:00Z",
+   "iv": "6f3ba03dd3c40db6952abd3b3edc080c",
+   "key": "1fb86ea8a972589b0965bfcd3520037072bf4582d88fb0cef0fcdc49fefadddb"
+  },
+  "Firmware/all_flash/recoverymode@115~watch.s7002.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/recoverymode@115~watch.s7002.im4p",
+   "digests": [
+    "340149db16c3223ecc49b6fea3affb8f247cb925"
+   ],
+   "names": [
+    "RecoveryMode"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-27T16:13:00Z",
+   "iv": "",
+   "key": ""
+  },
+  "058-74588-017.dmg": {
+   "kbag": "",
+   "filename": "058-74588-017.dmg",
+   "digests": [
+    "46bf6cc07470a6dd17ce48a93d85c8a186ac411a"
+   ],
+   "names": [
+    "RestoreRamDisk",
+    "OTARamdisk"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-27T16:13:00Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/dfu/iBEC.n27a.RELEASE.im4p": {
+   "kbag": "928dad675b9064f54824426c2b01926e33b55f817ce584167f1530f490182839d6ee1573bcabe86b4008ac18222b5b2a",
+   "filename": "Firmware/dfu/iBEC.n27a.RELEASE.im4p",
+   "digests": [
+    "7492f07a1e4c44869e2ecdbd5b28bdd51c358022"
+   ],
+   "names": [
+    "iBEC"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-27T16:13:00Z",
+   "iv": "dd33d9f3ad746de55d2b1bda3ce67791",
+   "key": "fe0140dfe2a924e118541cf36dd61ada31f986945ed602d5e1fdb6ad27302e8c"
+  },
+  "Firmware/dfu/iBSS.n27a.RELEASE.im4p": {
+   "kbag": "6886afa8dee0eaeb90160f6e75b8b7808fa0c94e9fd571bd72e304f9b914fdd1f408f1ed2475b4a0091311096f9bb889",
+   "filename": "Firmware/dfu/iBSS.n27a.RELEASE.im4p",
+   "digests": [
+    "8c64b3fbd237174a065fca4269f3dec571b7d9f9"
+   ],
+   "names": [
+    "iBSS"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-27T16:13:00Z",
+   "iv": "882eb13585a3c24b5f22e04553a30d27",
+   "key": "eae2001565a56658b424a0d51e8919f7ecb10c3f283cadeb4a98604084fb77aa"
+  },
+  "Firmware/all_flash/iBoot.n27a.RELEASE.im4p": {
+   "kbag": "4b27e8a6bc294ae3102896afa742edf3e951adf90193eee3d52277b3f40cebff8eb4b126d034fa7d78e82964202a4b7f",
+   "filename": "Firmware/all_flash/iBoot.n27a.RELEASE.im4p",
+   "digests": [
+    "82d82c26dea6157fd468634ab94c02f371a6a585"
+   ],
+   "names": [
+    "iBoot"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-27T16:13:00Z",
+   "iv": "e9ef0df65d7954270d7c8fdfef32090a",
+   "key": "8991d01f31add103d70e18c5a164deff1698f9b18230f9f0b259d689cf092ce1"
+  }
+ },
+ "urls": [
+  "https://secure-appldnld.apple.com/watchos3.2seed/091-08173-20170417-01B83864-2069-11E7-95A0-3A3D28CDFC9D/com_apple_MobileAsset_SoftwareUpdate/39f57bd1c05608768ccaf1b730e51356ad5a88b4.zip"
+ ]
+}
