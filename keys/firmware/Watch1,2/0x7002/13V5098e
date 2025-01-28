@@ -1,0 +1,127 @@
+{
+ "version": "1.0",
+ "ProductType": "Watch1,2",
+ "BuildTrain": "CoralSeed",
+ "ProductBuildVersion": "13V5098e",
+ "ProductVersion": "2.2",
+ "cpid": "0x7002",
+ "bdid": "0x4",
+ "keys": {
+  "Firmware/all_flash/all_flash.n28aap.production/dali-ui.n28a.release.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/all_flash.n28aap.production/dali-ui.n28a.release.im4p",
+   "digests": [
+    "38e154a21eff205535634770e2087fb2cbe13b8f"
+   ],
+   "names": [
+    "Dali"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-28T12:00:14Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/all_flash.n28aap.production/DeviceTree.n28aap.im4p": {
+   "kbag": "a8d88ed32fa58508576650cd6be719d6e451a4de641082507d5ca76763ac48af9ceafe160fcce2aaa7b059a12bf55e2e",
+   "filename": "Firmware/all_flash/all_flash.n28aap.production/DeviceTree.n28aap.im4p",
+   "digests": [
+    "2f45cbc11fbd863fd24b5a0cb4fab5025361f767",
+    "bb0368e4690d348d7302549497449581a861cb16"
+   ],
+   "names": [
+    "DeviceTree",
+    "RestoreDeviceTree"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-28T12:00:14Z",
+   "iv": "93cfd644be7d57cda2d174f86e6d10bc",
+   "key": "9c3dba40099125e85637cee059a66d2ad5f8fcc38bd80e1770ba1a03054dd821"
+  },
+  "kernelcache.release.n28a": {
+   "kbag": "3b9425dd512bde4bee9965e947cfbecf209ac1eff04ba3cd6a3afb1d9a3eccec0424d27cf70de2def613970cafb4493a",
+   "filename": "kernelcache.release.n28a",
+   "digests": [
+    "f380f012244ef4afe41d1e7868d0444df84a77fd",
+    "1f735c7389a3c25c020e72bb8cb85d4074b9465b"
+   ],
+   "names": [
+    "KernelCache",
+    "RestoreKernelCache"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-28T12:00:14Z",
+   "iv": "378647ce08ccfefb725b32546910fb76",
+   "key": "844626bf06bb4ec3cc66f40a08e2a9f82d675331bff2845f74749b74e1b243cc"
+  },
+  "Firmware/all_flash/all_flash.n28aap.production/LLB.n28a.RELEASE.im4p": {
+   "kbag": "10aa2f7b7bdfe20152f80c13925a85a8809849a72def28e2243e785fe1ccbd3aeda7093123419e8a92f465a3b9426fdd",
+   "filename": "Firmware/all_flash/all_flash.n28aap.production/LLB.n28a.RELEASE.im4p",
+   "digests": [
+    "274054f91ea204726da23e48c1095e5bacbae049"
+   ],
+   "names": [
+    "LLB"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-28T12:00:14Z",
+   "iv": "4f48afafca2ae0b051b5c5320f282539",
+   "key": "7fa8b5e4cfaead412197270d91a52d878b473891aed507b950b2a5be3579a0af"
+  },
+  "Firmware/dfu/iBEC.n28a.RELEASE.im4p": {
+   "kbag": "78304e78c8b774a4b9b7474537d0196d80c82730a731f77caaf248b7c15171d3e0a84a146dc70d01e22bf9670222626e",
+   "filename": "Firmware/dfu/iBEC.n28a.RELEASE.im4p",
+   "digests": [
+    "406b5a4c0dc49d167953214fd0bf358f629cc40b"
+   ],
+   "names": [
+    "iBEC"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-28T12:00:14Z",
+   "iv": "23180a6e577c966ca1f357b9121d7840",
+   "key": "dc2011563748265fef8c187ff044d31dfd843538bf58b3e48af8c4afa1619e5c"
+  },
+  "Firmware/dfu/iBSS.n28a.RELEASE.im4p": {
+   "kbag": "f2e87466e2698b128c6c291ead354223b1c4b4c31acb89e941bb326973f286c3813adc8b76c81aa40375a2165dee03fb",
+   "filename": "Firmware/dfu/iBSS.n28a.RELEASE.im4p",
+   "digests": [
+    "49481589ce179add36a07f3034080a08a8a98c55"
+   ],
+   "names": [
+    "iBSS"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-28T12:00:14Z",
+   "iv": "88c8c099c890eb0ee10f58461ce8383d",
+   "key": "ee4fec7016fb2ec9370a16aa362ff4c53c02b8b9d491c0e6fda61e8c4f116a86"
+  },
+  "Firmware/all_flash/all_flash.n28aap.production/iBoot.n28a.RELEASE.im4p": {
+   "kbag": "84f3864eb64c38f1d01841490d2b60bfb2b7ba2c8541e224f1cfa4736eab0114aa181b4e46b8ba6704a938926ff4cd83",
+   "filename": "Firmware/all_flash/all_flash.n28aap.production/iBoot.n28a.RELEASE.im4p",
+   "digests": [
+    "1004848387ad48b6a315c8265c15602344dea40e"
+   ],
+   "names": [
+    "iBoot"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-28T12:00:14Z",
+   "iv": "35f100f92a7413978da6021ec978f396",
+   "key": "cb3d6bff4c46c3d6e2fab23dc427c07bd18448812080bf1a0227eae34dee96aa"
+  }
+ }
+}
