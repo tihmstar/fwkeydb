@@ -1,0 +1,143 @@
+{
+ "version": "1.0",
+ "ProductType": "Watch1,1",
+ "BuildTrain": "GullSeed",
+ "ProductBuildVersion": "15U5053b",
+ "ProductVersion": "4.3.2",
+ "cpid": "0x7002",
+ "bdid": "0x2",
+ "keys": {
+  "Firmware/AOP/aopfw-s7002spu.im4p": {
+   "kbag": "",
+   "filename": "Firmware/AOP/aopfw-s7002spu.im4p",
+   "digests": [
+    "dfadcd4ec05683c493b8638c20ea6b8e3547d8e1"
+   ],
+   "names": [
+    "AOP"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-28T11:28:14Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/dali-ui.n27a.release.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/dali-ui.n27a.release.im4p",
+   "digests": [
+    "fa251628cfc108d8e50bf4ae76f0040e901add47"
+   ],
+   "names": [
+    "Dali"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-28T11:28:14Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/DeviceTree.n27aap.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/DeviceTree.n27aap.im4p",
+   "digests": [
+    "0159b2db89850a5d7676fc49ea07dacd6f447bea",
+    "6c56dc5061b0163e66e1661bd3e7a6ae4b91742a"
+   ],
+   "names": [
+    "DeviceTree",
+    "RestoreDeviceTree"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-28T11:28:14Z",
+   "iv": "",
+   "key": ""
+  },
+  "kernelcache.release.watch1": {
+   "kbag": "",
+   "filename": "kernelcache.release.watch1",
+   "digests": [
+    "a8b1c564b09b6228d8c42982dd97c6835a7bedf9",
+    "b5e8cc283124957294a8bbb3f3cb74fcbf7ae866"
+   ],
+   "names": [
+    "KernelCache",
+    "RestoreKernelCache"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-28T11:28:14Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/all_flash/LLB.n27a.RELEASE.im4p": {
+   "kbag": "dd1f74a019f77cb870fd4ffeb8a5f1c794186baf785a4dc8df5f3f97a09e97dc8d4c6c0b652734ce9be3dc39f91d68e0",
+   "filename": "Firmware/all_flash/LLB.n27a.RELEASE.im4p",
+   "digests": [
+    "3a89e9a578ac4c9a35d197de471b22803a1b03c2"
+   ],
+   "names": [
+    "LLB"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-28T11:28:14Z",
+   "iv": "7fb8091c9b384822d6f4e806cf630eb3",
+   "key": "5a91ffe2ac4d0c8d7fbac8a286cefa993ec5b7e74a4da20e5ea6e920eedcaaa3"
+  },
+  "Firmware/dfu/iBEC.n27a.RELEASE.im4p": {
+   "kbag": "d6e2e6743eeb4dd80653c5bd8cf25b325493028479d857e6dacf8083ba6b5136efe610c2f931fa40d8b34a9195d82304",
+   "filename": "Firmware/dfu/iBEC.n27a.RELEASE.im4p",
+   "digests": [
+    "3691f4c9fae16a6add5040b0e0a909ba8fe7d9cc"
+   ],
+   "names": [
+    "iBEC"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-28T11:28:14Z",
+   "iv": "a0ced848de515fe7e632ba2e1a9b8871",
+   "key": "2e3aef96addec6f75eb0893ddfc80380825dd290125bcd7f393d61853adca582"
+  },
+  "Firmware/dfu/iBSS.n27a.RELEASE.im4p": {
+   "kbag": "025709f3768d83c1fcc7be6df3db9edd9dca8002e27bfc270115e015a9caf683ea85f51a93ab99e567e7d87459cb7da5",
+   "filename": "Firmware/dfu/iBSS.n27a.RELEASE.im4p",
+   "digests": [
+    "a6e68d0ca1543377bd149f7f32d1896f9512b189"
+   ],
+   "names": [
+    "iBSS"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-28T11:28:14Z",
+   "iv": "632d9a7e13097680ab101542d55054a4",
+   "key": "3f174005cd04388bf72bee279f682f39d0513c16d3b476eafd198296bb63f5da"
+  },
+  "Firmware/all_flash/iBoot.n27a.RELEASE.im4p": {
+   "kbag": "588183267799bf443c843bd1471838cdeafdfb3aa4e9078f4c009195d8f3e4696a1aadb71c5946ca3d111c994908b05b",
+   "filename": "Firmware/all_flash/iBoot.n27a.RELEASE.im4p",
+   "digests": [
+    "c6af1e41a912ceef08902b94e9cbb678a37b9889"
+   ],
+   "names": [
+    "iBoot"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-28T11:28:14Z",
+   "iv": "9b7361bef5e7843b98ee58446cb4d6af",
+   "key": "9ba24d0d946c3e16eb3ac2b82c5292aed91b882fd82ff34b95ab9c6dc6ae4598"
+  }
+ }
+}
