@@ -91,10 +91,12 @@
    "kbag": "",
    "filename": "Firmware/all_flash/DeviceTree.n111sap.im4p",
    "digests": [
-    "9acc423d51b42afe46ee2d11ae704cf434470b7bb46a5f1722c25fcc9aa1337a067a342bc827efd3e06964620a023a77"
+    "9acc423d51b42afe46ee2d11ae704cf434470b7bb46a5f1722c25fcc9aa1337a067a342bc827efd3e06964620a023a77",
+    "ded685249e0801c97dc760cc927c93c678c767d7d8d552cd5024a7080dca75079058855b77ee117fad889e0f88a8957c"
    ],
    "names": [
-    "RestoreDeviceTree"
+    "RestoreDeviceTree",
+    "DeviceTree"
    ],
    "variants": [
     "Customer Software Update"
@@ -107,10 +109,12 @@
    "kbag": "",
    "filename": "kernelcache.release.watch3",
    "digests": [
-    "9037f15679d6110ce72e430f33156c64f00e79dd2260b8010a8339f0b81f4253f6a78b2fea4b7b88e91b1bb3072dac37"
+    "9037f15679d6110ce72e430f33156c64f00e79dd2260b8010a8339f0b81f4253f6a78b2fea4b7b88e91b1bb3072dac37",
+    "fa0eb06a53e97f94316eb4a0d7656187679f6a3ad2a8ca7e272cb9ee312c3bf7e9b6e419f117842aa386a3ca8545ee70"
    ],
    "names": [
-    "RestoreKernelCache"
+    "RestoreKernelCache",
+    "KernelCache"
    ],
    "variants": [
     "Customer Software Update"
@@ -214,6 +218,41 @@
    "date": "2025-01-27T18:12:53Z",
    "iv": "4f6deb6a89ae512ec925e0bbad6e0d8e",
    "key": "d765b3551049563aed638f62f4d0c5f074afbb0aadc55fc6459ae05868f549b1"
+  },
+  "Firmware/ACIBTFirmware/BT_FW.im4p": {
+   "kbag": "",
+   "filename": "Firmware/ACIBTFirmware/BT_FW.im4p",
+   "digests": [
+    "b1e2abad94b7050fd1ece88872e46fa80e245cce6c6f53531d9f70af6fb6dc07d6b93673ac992c5f43c9c01716aa0a1f"
+   ],
+   "names": [
+    "ACIBT"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-28T15:03:55Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/AOP/aopfw-m8paop.im4p": {
+   "kbag": "",
+   "filename": "Firmware/AOP/aopfw-m8paop.im4p",
+   "digests": [
+    "a5460f863be237d56c5081de9a3f8b0a7d762fb9755d29e6ff6bfde325f92cd3e0b540624c777459137e40fd43ac1620"
+   ],
+   "names": [
+    "AOP"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-28T15:03:55Z",
+   "iv": "",
+   "key": ""
   }
- }
+ },
+ "urls": [
+  "https://web.archive.org/web/20190404181859/http://updates-http.cdn-apple.com/2019WinterSeed/patches/041-40123/0AAC7A9E-30A1-11E9-B324-7B169C03E26B/com_apple_MobileAsset_SoftwareUpdate/05945b9a2ad67eddd227b76adb061632d659483f.zip"
+ ]
 }

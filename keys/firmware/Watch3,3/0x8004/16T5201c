@@ -159,10 +159,12 @@
    "kbag": "9b6c0b596d4e4f452430daec6ee3ea724ed7478b263b7013f8281974f2fb8d5b0041f5377cb25c98f770583928b1d9b0",
    "filename": "Firmware/all_flash/sep-firmware.n121s.RELEASE.im4p",
    "digests": [
-    "7606a4098ad724e2d7f2b068a0632f5545e02975fa5c003549c03ea91815607d199a036b120adf77f3d14900e2220c5e"
+    "7606a4098ad724e2d7f2b068a0632f5545e02975fa5c003549c03ea91815607d199a036b120adf77f3d14900e2220c5e",
+    "52688941252392107ef5cbf4e8946e5462abac2fbdd06f56aeb48952851651d477c0b424739d8fe763f3f4227928e94b"
    ],
    "names": [
-    "RestoreSEP"
+    "RestoreSEP",
+    "SEP"
    ],
    "variants": [
     "Customer Software Update"
@@ -184,6 +186,73 @@
    "date": "2025-01-27T21:45:04Z",
    "iv": "",
    "key": ""
+  },
+  "Firmware/048-52208-024.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/048-52208-024.dmg.trustcache",
+   "digests": [
+    "31260c4facd0efcd8d2a58b7e38ec79c5cc49a3aae731d1372e0be2d8e27645ca894bf120fa808b06dd7885f3ec4c5b5"
+   ],
+   "names": [
+    "StaticTrustCache"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-29T14:08:15Z",
+   "iv": "",
+   "key": ""
+  },
+  "Firmware/dfu/iBEC.n121s.RELEASE.im4p": {
+   "kbag": "3e1327c66e3702fe271029ec5b3193a5c7654537a03dd92ff3b705ecc7188a8c3bb5e12d967242004bec3da8325493f6",
+   "filename": "Firmware/dfu/iBEC.n121s.RELEASE.im4p",
+   "digests": [
+    "0184192c56e006ca606658089bc51fe69eb4c075c93434fc233d7fcaf0af8d9ccee19427bbc110bce8c93ce1470ed2db"
+   ],
+   "names": [
+    "iBEC"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-29T14:08:15Z",
+   "iv": "d5ce10addcd6ac09b840ef0cd0ccad6e",
+   "key": "b099453ea8fe21a33cf0be3ce4a7d9aac7e75a108a12f941edd59e0b304f137c"
+  },
+  "Firmware/dfu/iBSS.n121s.RELEASE.im4p": {
+   "kbag": "5857451b137907bf62f98362e903389b9236d8073c7fbc9d0a913a87e2c791440b85af5e3d9173d9bced0be370063685",
+   "filename": "Firmware/dfu/iBSS.n121s.RELEASE.im4p",
+   "digests": [
+    "fce67563914e0baa2e77c9c6cc3fe0d2b88d21d6460c500329dc251dc63fccfd180973dafab59d69f2c99bfef6e6f921"
+   ],
+   "names": [
+    "iBSS"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-29T14:08:15Z",
+   "iv": "948be89e970191b34e7f25b7419eccb0",
+   "key": "0c86ac40e6c07cc56badbc8b2236ce4d6ecb3725fa1bf6d82183beda5602b2f3"
+  },
+  "Firmware/all_flash/iBoot.n121s.RELEASE.im4p": {
+   "kbag": "6d121fd092f7bba067ab84102b00b452e5787d075f1c8a94f01abf37fcbad14af076ded5c16f10b766e27ab26b9bcf4e",
+   "filename": "Firmware/all_flash/iBoot.n121s.RELEASE.im4p",
+   "digests": [
+    "71ecbfbdf6c42776c2a1e652d61be45a4186d5c7e2f5d0a35294a6116b4aebf80675c1a4ffaa1487e63183fff9706106"
+   ],
+   "names": [
+    "iBoot"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2025-01-29T14:08:15Z",
+   "iv": "3fc1905d2bdb5bcdb178d72089645241",
+   "key": "b5a20d2553db0592b350d8ec0de6829e399d53d9969792bebd9f093a638fc7bb"
   }
- }
+ },
+ "urls": [
+  "https://web.archive.org/web/20190402201443/http://updates-http.cdn-apple.com/2019WinterSeed/patches/041-40125/0AA188BE-30A1-11E9-9EA8-7F169C03E26B/com_apple_MobileAsset_SoftwareUpdate/6418d601d1644f3644dafadaa0b70a1c74a43f9a.zip"
+ ]
 }
