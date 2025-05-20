@@ -77,3 +77,33 @@ jobs:
           ) | sort | uniq
         }
         list_changed_files | python fwkeydb_tools/verifyKeyfileBatch.py -        
+  createKBAGMap:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    - name: install dependencies
+      run: |
+        pip install pycryptodome
+    - name: download fwkeydb_tools
+      run: |
+        git clone --depth=1 https://github.com/tihmstar/fwkeydb_tools
+    - name: Create KBAG map
+      run: |
+        find keys/firmware/ -type f | python fwkeydb_tools/genkeybagmap.py > KBAGMap.json
+        zip -9 KBAGMap.zip KBAGMap.json
+    - name: Create Release
+      id: create_release
+      uses: softprops/action-gh-release@v2
+      if: github.ref == 'refs/heads/master'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        prerelease: false
+        draft: false
+        tag_name: ${{ env.BUILD_VERSION_NUM }}
+        name: Build ${{ env.BUILD_VERSION_STR }}
+        body: ${{ env.COMMIT_MSG }}
+        files: |
+          KBAGMap.zip
