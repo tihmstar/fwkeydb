@@ -91,7 +91,7 @@ jobs:
         git clone --depth=1 https://github.com/tihmstar/fwkeydb_tools
     - name: Create KBAG map
       run: |
-        find keys/firmware/ -type f | python fwkeydb_tools/genkeybagmap.py > KBAGMap.json
+        find keys -type f | python fwkeydb_tools/genkeybagmap.py > KBAGMap.json || true
         zip -9 KBAGMap.zip KBAGMap.json
     - name: Create Release
       id: create_release
