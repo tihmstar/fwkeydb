@@ -1,0 +1,127 @@
+{
+ "version": "1.0",
+ "ProductType": "Watch1,1",
+ "BuildTrain": "BondiVail",
+ "ProductBuildVersion": "13S5305d",
+ "ProductVersion": "2.0",
+ "cpid": "0x7002",
+ "bdid": "0x2",
+ "keys": {
+  "Firmware/all_flash/all_flash.n27aap.production/dali-ui.n27a.release.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/all_flash.n27aap.production/dali-ui.n27a.release.im4p",
+   "digests": [
+    "4d66fb9168a62c94c482ba8e3746aa2691f479b6"
+   ],
+   "names": [
+    "Dali"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-02-13T16:52:07Z"
+  },
+  "Firmware/all_flash/all_flash.n27aap.production/DeviceTree.n27aap.im4p": {
+   "kbag": "a1b87d183982f42b658b26cd3e4f4e442e77a38d39e2a7b0e4021bf34655aa8caaf1edd7e1a64b7d7edf93f007ffd765",
+   "filename": "Firmware/all_flash/all_flash.n27aap.production/DeviceTree.n27aap.im4p",
+   "digests": [
+    "c723ff4d151888e54df0be739d793d82435cf7cc",
+    "6d27af374dc7b5662d7ffbc7bae0f6c014c2f354"
+   ],
+   "names": [
+    "DeviceTree",
+    "RestoreDeviceTree"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "9036c6b6c03054f235ae6176f1fe0ad4",
+   "key": "3c287261026a3988387b1c1d736892e6339cdbfb8bfe3e36c7a1e4fba1a54ffc",
+   "date": "2026-02-13T16:52:07Z"
+  },
+  "kernelcache.release.n27a": {
+   "kbag": "c5b1f83d0b15966fc71a2491eb49777058a2f304dcbe2150f6676d7b7feef5b9915db99aaa9cd67f7507980691780c1d",
+   "filename": "kernelcache.release.n27a",
+   "digests": [
+    "46ecafa8cb3a25cd4843e13f7f795b4d20bbc2fe",
+    "391741200fa5b0966b82f98ec16e61f36a46c838"
+   ],
+   "names": [
+    "KernelCache",
+    "RestoreKernelCache"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "7d2814651c2e79d0cdc6c85f442f283f",
+   "key": "a1ade86b5affe7dd10794782a87adc7f87a4ea213507e15cc2369f75bbde096f",
+   "date": "2026-02-13T16:52:08Z"
+  },
+  "Firmware/all_flash/all_flash.n27aap.production/LLB.n27a.RELEASE.im4p": {
+   "kbag": "6fd92054aa3f19082a48c7bc0f55146d1185be446dbb897871a08de6aef3aed6839ba6fce41d5d4cbde6bbcbe4eec552",
+   "filename": "Firmware/all_flash/all_flash.n27aap.production/LLB.n27a.RELEASE.im4p",
+   "digests": [
+    "fc5ea60c3f6ebd981979a032fe39662f09ce6732"
+   ],
+   "names": [
+    "LLB"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "a23fd593c55c67f6ebe35e7efee4231a",
+   "key": "4d96d97f7df3777ecff7e633623914e00100bd85d67270a02ebd88376e937b95",
+   "date": "2026-02-13T16:52:09Z"
+  },
+  "Firmware/dfu/iBEC.n27a.RELEASE.im4p": {
+   "kbag": "02cbbb0551b21cc33bc5c428740eee2c117f34e196472de6c89b62a252e9c35478d9e51536a945aff519d74cd736ca85",
+   "filename": "Firmware/dfu/iBEC.n27a.RELEASE.im4p",
+   "digests": [
+    "1c8838dc068da78117ce73ab7f3167742cddd5c1"
+   ],
+   "names": [
+    "iBEC"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "e23d2c0d9457e8c18f9aae876d9cb823",
+   "key": "bf594df0bfb86a4fd003bb81193fea24eb4e3b56c8c36019b3f3e69834907cba",
+   "date": "2026-02-13T16:52:14Z"
+  },
+  "Firmware/dfu/iBSS.n27a.RELEASE.im4p": {
+   "kbag": "ce5eb656f3001f0cde16bca8f8b8115d4be992599a67647640c8659b4a21da5b26be4ea586b78c3976936476bf99adc1",
+   "filename": "Firmware/dfu/iBSS.n27a.RELEASE.im4p",
+   "digests": [
+    "7c9f14d83829873a9f0769cae2fd024a3d4fc44f"
+   ],
+   "names": [
+    "iBSS"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "229a301937896f56ab4594356b9357ae",
+   "key": "ec4806906b2e3d48e59da9d1d6868bf4af211eaf7a4d57a4243c0dc34decf165",
+   "date": "2026-02-13T16:52:15Z"
+  },
+  "Firmware/all_flash/all_flash.n27aap.production/iBoot.n27a.RELEASE.im4p": {
+   "kbag": "bc2a617350972dc603d8c2e8b19825d0c91ae4094f04e3edf7f68290afd85910d74728a42e2f4b61dd2f4e81fb142ef6",
+   "filename": "Firmware/all_flash/all_flash.n27aap.production/iBoot.n27a.RELEASE.im4p",
+   "digests": [
+    "1758f783fe4e34fd3351b8a488b82c2f8b1e9d17"
+   ],
+   "names": [
+    "iBoot"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "5a362f810fc4649d05e5942ec27fc85f",
+   "key": "2eb9c24d1d1764995879ec7ff91ffac82e122817b0d595e77c080d1302134c6c",
+   "date": "2026-02-13T16:52:15Z"
+  }
+ }
+}
