@@ -1,0 +1,321 @@
+{
+ "version": "1.0",
+ "ProductType": "AppleTV11,1",
+ "BuildTrain": "ArcherG",
+ "ProductBuildVersion": "18M60",
+ "ProductVersion": "14.7",
+ "cpid": "0x8020",
+ "bdid": "0x8",
+ "keys": {
+  "Firmware/ane/h11_ane_fw_quin.im4p": {
+   "kbag": "",
+   "filename": "Firmware/ane/h11_ane_fw_quin.im4p",
+   "digests": [
+    "7469c724c023cd4f2951879264e118f3bf0544d53f1b3f2aa4eddd0ef7498f7e420c831145d6dbd470d53c6d9480cc42"
+   ],
+   "names": [
+    "ANE"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-06-24T22:18:04Z"
+  },
+  "Firmware/AOP/aopfw-j305aop.im4p": {
+   "kbag": "",
+   "filename": "Firmware/AOP/aopfw-j305aop.im4p",
+   "digests": [
+    "9024dadab38fe7f7feb4697c3f5f2bc91122016d0bcac6135cc9fd110a17ca5b13b05db872b126615af49c6fbd14344c"
+   ],
+   "names": [
+    "AOP"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-06-24T22:18:04Z"
+  },
+  "Firmware/ave/AppleAVE2FW_H11.im4p": {
+   "kbag": "",
+   "filename": "Firmware/ave/AppleAVE2FW_H11.im4p",
+   "digests": [
+    "84da5c61b4e1c42a7fbab64dd019811074ecc49faa6e832c8d0dcfbf0f490350b62ecfd96d645fc84996d71a0db62600"
+   ],
+   "names": [
+    "AVE"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-06-24T22:18:05Z"
+  },
+  "Firmware/018-33356-067.dmg.mtree": {
+   "kbag": "",
+   "filename": "Firmware/018-33356-067.dmg.mtree",
+   "digests": [
+    "78a07bd94edd122f09c9275a91be9f1c512b7998a0dcb6f5a5452eaeff9bebc97e26191781f206a71b122b803fff9f47"
+   ],
+   "names": [
+    "Ap,SystemVolumeCanonicalMetadata"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-06-24T22:18:05Z"
+  },
+  "Firmware/all_flash/applelogo~appletv.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/applelogo~appletv.im4p",
+   "digests": [
+    "ae5e31328d6eb1d12e5f862be67b71cd01b25dc363d905723a3443b7b9cb78703822a5adf78829625023e6a0eb116fad",
+    "c261f7f9be5a4f8ff1a9a2d12eb68d0c2165b37ed0b366ebda739cb0501f1d1aae373f182df2bc8e20769e6b0281b092"
+   ],
+   "names": [
+    "AppleLogo",
+    "RestoreLogo"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-06-24T22:18:05Z"
+  },
+  "Firmware/all_flash/DeviceTree.j305ap.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/DeviceTree.j305ap.im4p",
+   "digests": [
+    "3d0a8c560967cfd23409198c611c019e80cbaa5289165af35337433c02ce8524eb5fef696285bfdd2f79eb5278449608",
+    "12226425ecd7be3a76ff264b208ddc3577d41128518102a81049285d723ae941835afe6ee69bacda066baff6e3fc9e2e"
+   ],
+   "names": [
+    "DeviceTree",
+    "RestoreDeviceTree"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-06-24T22:18:05Z"
+  },
+  "Firmware/agx/armfw_g11p.im4p": {
+   "kbag": "",
+   "filename": "Firmware/agx/armfw_g11p.im4p",
+   "digests": [
+    "00bfc3b6e2a003781b90fb0bb6da840a945d93be98a8eb839e72b45ad0abb853f00b18d154a9a504391ece6aa76d019f"
+   ],
+   "names": [
+    "GFX"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-06-24T22:18:05Z"
+  },
+  "kernelcache.release.j305": {
+   "kbag": "",
+   "filename": "kernelcache.release.j305",
+   "digests": [
+    "fb6fd1a26b44d0bea7ebed6aad405447e475e63f16025bf629fca7d9dbf984647ad1bc1b4b63f4eeabcf41e86e7b4bbf",
+    "66add5211cd53bbdedc50edb0f5916761cbf6f058adb75f4f61c7ae641b2705676cedfb278d190d0968d2ca2270865e1"
+   ],
+   "names": [
+    "KernelCache",
+    "RestoreKernelCache"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-06-24T22:18:09Z"
+  },
+  "Firmware/all_flash/LLB.j305.RELEASE.im4p": {
+   "kbag": "b8a14a3e12cf769117c9be73596044d7bd5ab4958f91f089e406a6b804e1ae986a96153e25e9b4eaf4f4f52f824acfbe",
+   "filename": "Firmware/all_flash/LLB.j305.RELEASE.im4p",
+   "digests": [
+    "bacc49e7476c1180eed40bfbeca363b9fd370fac648d0ce3b505989d40098bb01472b9cf3773234d0ca69a753b4cf075"
+   ],
+   "names": [
+    "LLB"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "bb33167f2004fa07fbbd6350c626d92a",
+   "key": "d70b913ac1e77ac652219190a9feaee2b870862e368aa9a699dd3776d8bbb894",
+   "date": "2026-06-24T22:18:09Z"
+  },
+  "Firmware/all_flash/recoverymode@1080~appletv5.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/recoverymode@1080~appletv5.im4p",
+   "digests": [
+    "8a3430bf33373c1364bb6d481d86d6c57648b47703e6f6cb9df8fe852cfba744f36458cc95058f9bcf9471bcaeb95b67"
+   ],
+   "names": [
+    "RecoveryMode"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-06-24T22:18:10Z"
+  },
+  "018-33434-067.dmg.image-img4": {
+   "kbag": "",
+   "filename": "018-33434-067.dmg.image-img4",
+   "digests": [
+    "e57037f8a97dfe46de5db609f254d0ee4fa4326aef272a211c68cc8f4fdc4b14171fe4116bd565acff3972444bd753b6"
+   ],
+   "names": [
+    "RestoreRamDisk",
+    "OTARamdisk"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-06-24T22:18:18Z"
+  },
+  "Firmware/all_flash/sep-firmware.j305.RELEASE.im4p": {
+   "kbag": "634a79d0d2c371a6dc12bd24bfb4e26297bebefe2f46bc69c10c0a0dfe83e450e111d3516a1186c901be2859abb3bec0",
+   "filename": "Firmware/all_flash/sep-firmware.j305.RELEASE.im4p",
+   "digests": [
+    "35f55ee77e3a1b0e4cb25cff0a4450765eaab9fb9dae476b992d4d4a34304f1fa64d32813d6d72aeee8f990262ffa088",
+    "baffd4c44f8be3fd2a72475731c463c59340320f31bc1ac40fe1f88b0efaff082d204c061900a46aed820c000b0b222f"
+   ],
+   "names": [
+    "RestoreSEP",
+    "SEP"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2026-06-24T22:18:19Z"
+  },
+  "Firmware/018-33434-067.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/018-33434-067.dmg.trustcache",
+   "digests": [
+    "17892fc354e5388813f4a1b8367eaff11ca1fc53a4baeaad852e34c4738707e020569b9375d18b7302919d3cfb356a28"
+   ],
+   "names": [
+    "RestoreTrustCache"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2026-06-24T22:18:19Z"
+  },
+  "Firmware/SmartIOFirmware_ASCv2.im4p": {
+   "kbag": "",
+   "filename": "Firmware/SmartIOFirmware_ASCv2.im4p",
+   "digests": [
+    "0cf455798f0885a815586f4d055f1e7ec0b17854a98a469eb2ad73575fbabc9698b37ebd93252e15f73c0a11eb0121a5"
+   ],
+   "names": [
+    "SIO"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-06-24T22:18:20Z"
+  },
+  "Firmware/018-33356-067.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/018-33356-067.dmg.trustcache",
+   "digests": [
+    "085ddab1a4f808ffe23bf6a01246cf683ced32ef92e2dcc03cef28572c5ad6c8b6be4b3c09d165e05fb595ba4a82ce88"
+   ],
+   "names": [
+    "StaticTrustCache"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2026-06-24T22:18:20Z"
+  },
+  "Firmware/018-33356-067.dmg.root_hash": {
+   "kbag": "",
+   "filename": "Firmware/018-33356-067.dmg.root_hash",
+   "digests": [
+    "62979e9ff35a5081236387fef1356cf3d4f43cc73c89063bdf2a4b298c62394f419cb36286559f91e5a67c7179ad5a58"
+   ],
+   "names": [
+    "SystemVolume"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-06-24T22:18:20Z"
+  },
+  "Firmware/dfu/iBEC.j305.RELEASE.im4p": {
+   "kbag": "f0e66dfdf483545f9a0480a6ddc9ac99861eae6f19c39d989efdb6e0a7c69d4cd120b66ea387112e449d9f9f644a5927",
+   "filename": "Firmware/dfu/iBEC.j305.RELEASE.im4p",
+   "digests": [
+    "6fa3241be97a78044d97fc013e153bf12355f13ffb60617b1482ef662d123ffe09f945691082e2347d6ac3e9bf7d3d23"
+   ],
+   "names": [
+    "iBEC"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "f053cc407706fbbb4ce4c36a5be3aead",
+   "key": "d9c398601b5db4e9fdd9989ae0f4981b65eadf4a8df62b6a17c70521b827bc63",
+   "date": "2026-06-24T22:18:20Z"
+  },
+  "Firmware/dfu/iBSS.j305.RELEASE.im4p": {
+   "kbag": "ebaef2ec52adc44c8b0b2f0cfc8f0eaf5067e4d4618646a8622d437c2d3a9a4c3420468947b39775b4e8085297fc7681",
+   "filename": "Firmware/dfu/iBSS.j305.RELEASE.im4p",
+   "digests": [
+    "4f11598f444b9cd01cda942050344d8c8d16ca3599f01a69f332610d5f945b293942e6d31c367ebfa3537c45edce044c"
+   ],
+   "names": [
+    "iBSS"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "8edda51a2a8b39411e5a79a5799af99a",
+   "key": "46e199233dd8b43bf0f24dc1260743ced69d4b0b449c79c4a6fd505e7ad38fc8",
+   "date": "2026-06-24T22:18:20Z"
+  },
+  "Firmware/all_flash/iBoot.j305.RELEASE.im4p": {
+   "kbag": "185c427ea3a14e13bdec4ce527accd0f659dd25dbb50aeae3da76cc14080072dc6f764bb009a387a4a74b64a7222b904",
+   "filename": "Firmware/all_flash/iBoot.j305.RELEASE.im4p",
+   "digests": [
+    "853045afc0f4751f18ab70acf8435d42311d3a147fc27718d04cec2195c21a8553f3a03c0f64feabb306a7ebf68afbfb"
+   ],
+   "names": [
+    "iBoot"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "16ae56145b982fbd2336205fe38f7878",
+   "key": "e7118ae5ab9085ab157d32804a37b00b46358fb8b3dfa1115ef9a9180ea7828f",
+   "date": "2026-06-24T22:18:21Z"
+  }
+ },
+ "urls": [
+  "https://updates.cdn-apple.com/2021SummerFCS/patches/071-21010/29CBDBB1-9B5A-4D20-8B52-C58302598D6A/com_apple_MobileAsset_SoftwareUpdate/c5dc280177a4f4922375d49d61c32714f25e0414.zip"
+ ]
+}
