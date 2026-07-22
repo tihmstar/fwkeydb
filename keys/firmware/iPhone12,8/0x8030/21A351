@@ -1,0 +1,588 @@
+{
+ "version": "1.0",
+ "ProductType": "iPhone12,8",
+ "BuildTrain": "Dawn",
+ "ProductBuildVersion": "21A351",
+ "ProductVersion": "17.0.2",
+ "cpid": "0x8030",
+ "bdid": "0x10",
+ "keys": {
+  "Firmware/ane/h12_ane_fw_metis.im4p": {
+   "kbag": "",
+   "filename": "Firmware/ane/h12_ane_fw_metis.im4p",
+   "digests": [
+    "8508e9c1fa7bd685cd260ab71b2b03241413a72e6fdb7fd0e2040710dabecf86b59ffe3babbdb2f317173d8127299f82"
+   ],
+   "names": [
+    "ANE"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:57:52Z"
+  },
+  "Firmware/AOP/aopfw-iphone12caop.im4p": {
+   "kbag": "",
+   "filename": "Firmware/AOP/aopfw-iphone12caop.im4p",
+   "digests": [
+    "662e18588bb7e00eef7641f5ee37d8b1c71c4d4d71051e31479786fffe907de1d37c343f09a6df5fef8963c93b4f2c49"
+   ],
+   "names": [
+    "AOP"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:57:52Z"
+  },
+  "Firmware/ave/AppleAVE2FW_H12.im4p": {
+   "kbag": "",
+   "filename": "Firmware/ave/AppleAVE2FW_H12.im4p",
+   "digests": [
+    "c3a490bc115b8c9474a097c7efcf01905bf37f60e7739f24f8a956c29cd53b820c680ffc5d7376be39c565e24f8db876"
+   ],
+   "names": [
+    "AVE"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:57:52Z"
+  },
+  "Firmware/087-14967-001.dmg.mtree": {
+   "kbag": "",
+   "filename": "Firmware/087-14967-001.dmg.mtree",
+   "digests": [
+    "c02beaca2070d432ddae5eecc8a06a60e18aac8599dd351cecd716529b2922637e926d687864166c7f143b107e0f809a"
+   ],
+   "names": [
+    "Ap,SystemVolumeCanonicalMetadata"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:57:54Z"
+  },
+  "Firmware/all_flash/applelogo@2x~iphone.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/applelogo@2x~iphone.im4p",
+   "digests": [
+    "27942d02f24ec5cb2c83f9e5d7fc5a0e7515d5f5d3cb2ac38107943f7ef6957d2ca9d38cb7a414f45ce7500b0b508a15",
+    "50282a0a5fc449196268ca30db59bf38eafd8948b9657dd53b724e082ca60bcae79888d798ad625e10e445b5aa7040e4"
+   ],
+   "names": [
+    "AppleLogo",
+    "RestoreLogo"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:57:54Z"
+  },
+  "Firmware/all_flash/batterycharging0@2x~iphone.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/batterycharging0@2x~iphone.im4p",
+   "digests": [
+    "e76b9d8e0fecf8652c59dbedaa35ee3f0f82fc4d3fc9f8d6ce69f1688bd3941ddf84b13aa507d5f17da286c86eaf288a"
+   ],
+   "names": [
+    "BatteryCharging0"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:57:54Z"
+  },
+  "Firmware/all_flash/batterycharging1@2x~iphone.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/batterycharging1@2x~iphone.im4p",
+   "digests": [
+    "acfb917ce2828b4055c5c86529f6e21c719393f4655413a2087518bdb3561591068783718ad574036b167fcf2af6da99"
+   ],
+   "names": [
+    "BatteryCharging1"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:57:54Z"
+  },
+  "Firmware/all_flash/batteryfull@2x~iphone.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/batteryfull@2x~iphone.im4p",
+   "digests": [
+    "cfaaef9ea5613fda1bc3a431d4ace64395bf3185cb8fde822f7b2c818d22833acad5db3ec4353cb6a86f52c36b06d329"
+   ],
+   "names": [
+    "BatteryFull"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:57:54Z"
+  },
+  "Firmware/all_flash/batterylow0@2x~iphone.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/batterylow0@2x~iphone.im4p",
+   "digests": [
+    "181ad85e46594f54e3fe25dc7903cb0c780392a60f1d0738f8d59a8d495447f0a81e363002d7216844813e8ddaa8bbf0"
+   ],
+   "names": [
+    "BatteryLow0"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:57:54Z"
+  },
+  "Firmware/all_flash/batterylow1@2x~iphone.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/batterylow1@2x~iphone.im4p",
+   "digests": [
+    "fea1cbc43b6b7e6dc00455e2dc2d5721ba27a041ff4d6be10c2bd08ed8bfa9140d7e0eb022452afbba6f0ac134138378"
+   ],
+   "names": [
+    "BatteryLow1"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:57:54Z"
+  },
+  "Firmware/all_flash/glyphplugin@1334~iphone-lightning.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/glyphplugin@1334~iphone-lightning.im4p",
+   "digests": [
+    "e447561f63c872182e7a2ab0e729732fda94b30a9398e3e26f58dd15682e85fe585b6311ce1eda81a6e072a14b19206a"
+   ],
+   "names": [
+    "BatteryPlugin"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:57:54Z"
+  },
+  "Firmware/078-27668-726.dmg.root_hash": {
+   "kbag": "",
+   "filename": "Firmware/078-27668-726.dmg.root_hash",
+   "digests": [
+    "6a52c40848d505e30dd2c03f698044d4c0fb0f61b3577538d9ca706c676fb441cc7dbbc9330d7c2b518eb5ff8338b080"
+   ],
+   "names": [
+    "Cryptex1,AppVolume"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:57:55Z"
+  },
+  "Firmware/087-15201-001.dmg.root_hash": {
+   "kbag": "",
+   "filename": "Firmware/087-15201-001.dmg.root_hash",
+   "digests": [
+    "72aff200ab20e98910a2e30b1ab512bf0f6dba27d7c979c3fd530de8c8125535451981c721c0e86ae0f76eedcb194868"
+   ],
+   "names": [
+    "Cryptex1,SystemVolume"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:58:43Z"
+  },
+  "Firmware/all_flash/DeviceTree.d79ap.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/DeviceTree.d79ap.im4p",
+   "digests": [
+    "b1952b0b176a7168004d4545050fbd01a533ed0a036f856b6a59bcae334f23c210c5fba94d3483ff05d9d66f1565130f",
+    "b531a490e383c62abf57172a6abfe225d07162a41f6779599bb3ae4da3e1c937e578c72d14f79eac8070a7ce8154a89a"
+   ],
+   "names": [
+    "DeviceTree",
+    "RestoreDeviceTree"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:58:43Z"
+  },
+  "Firmware/agx/armfw_g12p.im4p": {
+   "kbag": "",
+   "filename": "Firmware/agx/armfw_g12p.im4p",
+   "digests": [
+    "88d6e326190bcc18d9b753e24b9cbcaba707a70268f4cfb09375b6b68a8ba69ef0b596c86dc619f518161c0bdb237392"
+   ],
+   "names": [
+    "GFX"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:58:43Z"
+  },
+  "Firmware/isp_bni/adc-zelus-d79.im4p": {
+   "kbag": "",
+   "filename": "Firmware/isp_bni/adc-zelus-d79.im4p",
+   "digests": [
+    "9388534fbfdc374c72081ee9d0b91fb8d438470535a41bb3d29cc705f2e7a944167cc6b89dfcfccd93b99736cc123641"
+   ],
+   "names": [
+    "ISP"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:58:43Z"
+  },
+  "kernelcache.release.iphone12c": {
+   "kbag": "",
+   "filename": "kernelcache.release.iphone12c",
+   "digests": [
+    "157b2222e2d774362428b36c1e9a0d37dc6270246dcdddcf9722b42541fc34ec987e861985532671f884efc3b203fa32",
+    "40bb16e35f2ec16b4546186417496ead4b64597222bcc5f51501e2bcc99eb742ebbb19d79a007382e7b9e0299a871244"
+   ],
+   "names": [
+    "KernelCache",
+    "RestoreKernelCache"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:58:43Z"
+  },
+  "Firmware/all_flash/LLB.d79.RELEASE.im4p": {
+   "kbag": "ac652f48dda63ec4e77280a385c01f678608f2f96b40099b4ef4b250eb945a7844289dbf400e5a9e4a3275004a152123",
+   "filename": "Firmware/all_flash/LLB.d79.RELEASE.im4p",
+   "digests": [
+    "c9f76fd33e8bf319dd19c4fc0ab48ac862705cdce81eaeee4aa82f945ae8fbaef22ee5d672d9a3922f87e2aee9969816"
+   ],
+   "names": [
+    "LLB"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "4341aa53e10655665ad6eb76fba32968",
+   "key": "ea7b62b58a3641220de58915d8ec93856ea91f2cdd6dd88a16489690fd82059c",
+   "date": "2026-07-22T12:58:44Z"
+  },
+  "Firmware/all_flash/lowpowermode@1334~iphone-lightning.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/lowpowermode@1334~iphone-lightning.im4p",
+   "digests": [
+    "506c913ebd61becafb5f5da18e0b307aa42a0f7fc1237090f49cea089a7a933b10f54739876de9964d47b9d4a57f0122"
+   ],
+   "names": [
+    "LowPowerWallet0"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:58:44Z"
+  },
+  "Firmware/D79_Multitouch.im4p": {
+   "kbag": "",
+   "filename": "Firmware/D79_Multitouch.im4p",
+   "digests": [
+    "110ac81139469d6e6d92b4716361e979f94949911b13bb4f45b1e34fb4df53ba70f48964c39b175ccca943af94827138"
+   ],
+   "names": [
+    "Multitouch"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2026-07-22T12:58:44Z"
+  },
+  "Firmware/pmp/t8030pmp.im4p": {
+   "kbag": "",
+   "filename": "Firmware/pmp/t8030pmp.im4p",
+   "digests": [
+    "3791a19a08fcf4e840a2b47ce2624f10e8077456e59766544ebe207adfc75bbf5817a91425f647a320f67366f34011d4"
+   ],
+   "names": [
+    "PMP"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:58:44Z"
+  },
+  "Firmware/all_flash/recoverymode@1334~iphone-lightning.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/recoverymode@1334~iphone-lightning.im4p",
+   "digests": [
+    "4dd71588fe7ea1d78014e3b19823bd66ba92fc9eead42f409a8b5b329f1c37d9f2de695568b68ea7d28b799b5773e44c"
+   ],
+   "names": [
+    "RecoveryMode"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:58:44Z"
+  },
+  "078-28142-723.dmg": {
+   "kbag": "",
+   "filename": "078-28142-723.dmg",
+   "digests": [
+    "8fce1741add0985ba4ff2501bdeff35a9c892199927f77ff5817b87a179d4f45ac5013be6dc3a5668b2fd0f98ab57575"
+   ],
+   "names": [
+    "RestoreRamDisk",
+    "EraseRamdisk"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:58:48Z"
+  },
+  "Firmware/all_flash/sep-firmware.d79.RELEASE.im4p": {
+   "kbag": "70a14efa534dbbac2436f3af911d0b87f7c0f47c815e47fec3e3b191c0c7d73e1b6722a536fb6a97abab4bbc12a5773d",
+   "filename": "Firmware/all_flash/sep-firmware.d79.RELEASE.im4p",
+   "digests": [
+    "4781f379011ff955d80fcbea852331521d42597309375dccfced8ccaead5bfc7ba975d76b5d650640be1ef7726f9ac73",
+    "f3c2a59ef24edc9955c129e92d00ea9de63feaed113b886c5e8d0961fc4521d91fa1934263a2e9970e82f63877e3d148"
+   ],
+   "names": [
+    "RestoreSEP",
+    "SEP"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2026-07-22T12:58:48Z"
+  },
+  "Firmware/078-28142-723.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/078-28142-723.dmg.trustcache",
+   "digests": [
+    "94d6c2f85b36fde2ccb178b2d24768df36c04dcd3f1db40127a0fc970ca0d90c4d2ff25782b7a1e64919d8516c87e655"
+   ],
+   "names": [
+    "RestoreTrustCache"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)"
+   ],
+   "date": "2026-07-22T12:58:49Z"
+  },
+  "Firmware/SmartIOFirmware_ASCv2.im4p": {
+   "kbag": "",
+   "filename": "Firmware/SmartIOFirmware_ASCv2.im4p",
+   "digests": [
+    "e0a18accee61ea7c9cf04d67a1a5385bf10faa89d9a2c6c0f6ead718a27d65c806a0bac2a8d803b4dd925ec837234552"
+   ],
+   "names": [
+    "SIO"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:58:49Z"
+  },
+  "Firmware/087-14967-001.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/087-14967-001.dmg.trustcache",
+   "digests": [
+    "dc0c829aad6f83aa293e6341691dc1d50186d994fa670c5c7b840a607cf8ccddfe27673cf7ed80d668a113f60e88fa78"
+   ],
+   "names": [
+    "StaticTrustCache"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2026-07-22T12:58:49Z"
+  },
+  "Firmware/087-14967-001.dmg.root_hash": {
+   "kbag": "",
+   "filename": "Firmware/087-14967-001.dmg.root_hash",
+   "digests": [
+    "981c3fbe9d125ebce14cb85d8425cbeb5c7935e235f8ba80ec40d7217be8d405acfcde14806df4889047fd7f075dea00"
+   ],
+   "names": [
+    "SystemVolume"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:58:50Z"
+  },
+  "Firmware/WirelessPower/WirelessPower.iphone12c.im4p": {
+   "kbag": "",
+   "filename": "Firmware/WirelessPower/WirelessPower.iphone12c.im4p",
+   "digests": [
+    "832e0f982671e3d6be6044fe32c9eb7afd09c4a82c55a8de3e8c80f7bc300d2f519c0900c425d6363a8475d1d6303e22"
+   ],
+   "names": [
+    "WCHFirmwareUpdater"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:58:50Z"
+  },
+  "Firmware/dfu/iBEC.d79.RELEASE.im4p": {
+   "kbag": "5f1a8f2244554f34e9f9ab9260a850e9f8add3b7a809d46ef072f9739184e443ef596217511212d8e7e406897fccc797",
+   "filename": "Firmware/dfu/iBEC.d79.RELEASE.im4p",
+   "digests": [
+    "028a7f87a04e374f4a9d39382b83a4a10fccdd12ebd10802496b045a6cb1c27c50085e5640b31baa76860d606cf69847"
+   ],
+   "names": [
+    "iBEC"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "3452b52c317715c88b82e0329dca5123",
+   "key": "45f2562004d77076c7d4c91b225abac137d2e981138ba854098fbade5373c0bd",
+   "date": "2026-07-22T12:58:51Z"
+  },
+  "Firmware/dfu/iBSS.d79.RELEASE.im4p": {
+   "kbag": "d64cea675778c146d244d801dc43be8b502b3ee8b61c79ae276a99408401ff1657ef48ab9f222785dffc784b8aed95c0",
+   "filename": "Firmware/dfu/iBSS.d79.RELEASE.im4p",
+   "digests": [
+    "7fc57fed7c273aae029b493586638b0087efcf40ad1f89c5683c068b813ca7e022152bf78ef91365a6673af28a28bad9"
+   ],
+   "names": [
+    "iBSS"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "e14848f0b26e00c7dcccce6851672a92",
+   "key": "1d6ec770575dc73b014bd5825cfbc718283336ca9a7ea471b5d8866a911ee378",
+   "date": "2026-07-22T12:58:51Z"
+  },
+  "Firmware/all_flash/iBoot.d79.RELEASE.im4p": {
+   "kbag": "2ebef689818855d28b310d5b18941c0d3d4ea1bbef1fbff4ad2cdf8e6d91e500834136b4ce98dc0cf95e9b43d1489734",
+   "filename": "Firmware/all_flash/iBoot.d79.RELEASE.im4p",
+   "digests": [
+    "f0aaa846b73838bc951400e6531f394e3a538454174435c6fa905fe3e50648447933b0b199925e27c0951422d639878e"
+   ],
+   "names": [
+    "iBoot"
+   ],
+   "variants": [
+    "Customer Erase Install (IPSW)",
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "cb5f2427bdb2c638a82770886953d71e",
+   "key": "d770dfe8db55e0728750f591a00404940930514f6ac98137fa4b64d64771c741",
+   "date": "2026-07-22T12:58:51Z"
+  },
+  "078-27546-724.dmg": {
+   "kbag": "",
+   "filename": "078-27546-724.dmg",
+   "digests": [
+    "bb0fcf8a0808f33a22da931ff65e036bcd7dce615595d26b5a6c10b1c3d71ba3e6456a2a04fa2d7d2b702becc2447abe"
+   ],
+   "names": [
+    "RestoreRamDisk",
+    "UpgradeRamdisk"
+   ],
+   "variants": [
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-07-22T12:59:38Z"
+  },
+  "Firmware/078-27546-724.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/078-27546-724.dmg.trustcache",
+   "digests": [
+    "213accb1acc7319a74569625d3757b23944a60c08c321bfa05cff7d8f8c904ad171588c8465376da4c1df32ababb695a"
+   ],
+   "names": [
+    "RestoreTrustCache"
+   ],
+   "variants": [
+    "Customer Upgrade Install (IPSW)"
+   ],
+   "date": "2026-07-22T12:59:38Z"
+  }
+ },
+ "urls": [
+  "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-64829/0953880A-A084-4896-890E-F5C016E5339B/iPhone12,8_17.0.2_21A351_Restore.ipsw"
+ ]
+}
