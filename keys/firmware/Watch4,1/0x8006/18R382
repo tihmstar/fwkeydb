@@ -1,0 +1,413 @@
+{
+ "version": "1.0",
+ "ProductType": "Watch4,1",
+ "BuildTrain": "Hunter",
+ "ProductBuildVersion": "18R382",
+ "ProductVersion": "7.0",
+ "cpid": "0x8006",
+ "bdid": "0x8",
+ "keys": {
+  "Firmware/ACIBTFirmware/BT_FW_m9.im4p": {
+   "kbag": "",
+   "filename": "Firmware/ACIBTFirmware/BT_FW_m9.im4p",
+   "digests": [
+    "47985678eff2bcde092cf989b258ee84ba4c5b9e6379ed741b7f4d40dae9e2065f8c807d6b89b7efd65b2601c987002e"
+   ],
+   "names": [
+    "ACIBT"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-02T16:45:00Z"
+  },
+  "Firmware/aciwififirmware/wifi_armv7r_m9_rtkit_image.im4p": {
+   "kbag": "",
+   "filename": "Firmware/aciwififirmware/wifi_armv7r_m9_rtkit_image.im4p",
+   "digests": [
+    "1bd8535a228af68de15c74712581b99c8c3817d8ca713c57e7237ae0c735d7ee4cc6afc641be7f53343e35d7e343792d"
+   ],
+   "names": [
+    "ACIWIFI"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-02T16:45:01Z"
+  },
+  "Firmware/ane/h11_ane_fw_mercury.im4p": {
+   "kbag": "",
+   "filename": "Firmware/ane/h11_ane_fw_mercury.im4p",
+   "digests": [
+    "977e2e82fc4b125fa658d6b667c8779242576442c3ab77950cbf28ca99260b35e5c821224bfdfe132419ae4ebf17f789"
+   ],
+   "names": [
+    "ANE"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-02T16:45:01Z"
+  },
+  "Firmware/AOP/aopfw-watch4aop.im4p": {
+   "kbag": "",
+   "filename": "Firmware/AOP/aopfw-watch4aop.im4p",
+   "digests": [
+    "8078d28f364e4041fdf8aef30c1f8f024e7abc7f90e5cb58396f9e30bf8704ff5b22549930ee72a202db8a6da26246c1"
+   ],
+   "names": [
+    "AOP"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-02T16:45:01Z"
+  },
+  "Firmware/all_flash/applelogo@394~watch.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/applelogo@394~watch.im4p",
+   "digests": [
+    "77267b61378082fb702365548045a251bbb74500b194d089b6a39f37ce30033a34aef16d47383a37ed4f12c5c6a9f038",
+    "c0c0c2af2c095bfcb75cf3818c944475bdb247414a928ad07c84eca66afefb6c87b0e3f4011465e67b0e7613a9318dec"
+   ],
+   "names": [
+    "AppleLogo",
+    "RestoreLogo"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-02T16:45:02Z"
+  },
+  "Firmware/all_flash/dali-ui.n131s.release.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/dali-ui.n131s.release.im4p",
+   "digests": [
+    "9826ef8af824a0b2fb65729937459e89acd39fdb0cff17679853ced7af52054d9e556b515c0f7f49cf7edd0f401e3518"
+   ],
+   "names": [
+    "Dali"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-02T16:45:02Z"
+  },
+  "Firmware/all_flash/DeviceTree.n131sap.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/DeviceTree.n131sap.im4p",
+   "digests": [
+    "7a06a729fc9167a296efe7ea9fccceb25962bfe67840b3b626c79310f2d53c6bd88dab6ef70033d51d5a44348a78ca83",
+    "7e3757266677f22386102394666a03265314fbd5056ba5fe674fece83b48a48ccb1a8300864b76b538c35bc25aa177ec"
+   ],
+   "names": [
+    "DeviceTree",
+    "RestoreDeviceTree"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-02T16:45:02Z"
+  },
+  "Firmware/agx/armfw_g11m.im4p": {
+   "kbag": "",
+   "filename": "Firmware/agx/armfw_g11m.im4p",
+   "digests": [
+    "94d5ccef4d22f7959b7452497f8fb376c2ccb54fe9ee7505de8f3f53c5983b365087bd74ca26062ff269cee5b3e1dad9"
+   ],
+   "names": [
+    "GFX"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-02T16:45:03Z"
+  },
+  "kernelcache.release.watch4": {
+   "kbag": "",
+   "filename": "kernelcache.release.watch4",
+   "digests": [
+    "d3e1a2b6ebe6b71dd79f796ca41d5b9b6baf5177c7f86372c344e7d709a639013891802b989fdad491f2e155a58a2b58",
+    "32ff5396e13d567ea102245070bd0a8ffcf6dd8d5651657c16b191852de319ad0b459979f67397c7740bde188573cef0"
+   ],
+   "names": [
+    "KernelCache",
+    "RestoreKernelCache"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-02T16:45:03Z"
+  },
+  "Firmware/all_flash/LLB.n131s.RELEASE.im4p": {
+   "kbag": "0fa129101a35bfcc31b7e44a37a7d562ffc1be131c3d0436f17519a34cf242142963f94a495e617bf49ba27e3d4703d7",
+   "filename": "Firmware/all_flash/LLB.n131s.RELEASE.im4p",
+   "digests": [
+    "c12ee56dd5daf457b15a49128e8ad5acb181e611f191be3438aaa523a0f59bf84c33242a0f4136209cef2beee684ae2b"
+   ],
+   "names": [
+    "LLB"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "aeebeaf0e506d9ec4c4c3dd380b7d27c",
+   "key": "e6304a36478805cdabee6e5ce6e2362c975337be5e675ef3955210809d4dffe4",
+   "date": "2026-09-02T16:45:03Z"
+  },
+  "Firmware/N131S_LeapHapticsFirmware.im4p": {
+   "kbag": "",
+   "filename": "Firmware/N131S_LeapHapticsFirmware.im4p",
+   "digests": [
+    "0abe86fa2d0d7451953b0b3eb5cf9f8429e3c672741f2f1148f9be201eac69076a14fa1d4b6e7094be7be5df36d5c53a"
+   ],
+   "names": [
+    "LeapHaptics"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2026-09-02T16:45:04Z"
+  },
+  "Firmware/N131s_Multitouch.im4p": {
+   "kbag": "",
+   "filename": "Firmware/N131s_Multitouch.im4p",
+   "digests": [
+    "c17b2e512f72ec20aa2b589268068cbefa465adad2b161ad74dd1f560cccfb1679c0ebd8db8b04f052daa682ad4b11a1"
+   ],
+   "names": [
+    "Multitouch"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2026-09-02T16:45:04Z"
+  },
+  "Firmware/rtpfw.im4p": {
+   "kbag": "",
+   "filename": "Firmware/rtpfw.im4p",
+   "digests": [
+    "aa72e5c044360691a96422a48f917dfebedec1f6a92bd31e7a35939a22a4799787f3478fb26d8251fc6883668d5f5aaf"
+   ],
+   "names": [
+    "RTP"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-02T16:45:04Z"
+  },
+  "Firmware/all_flash/recoverymode@394~watch.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/recoverymode@394~watch.im4p",
+   "digests": [
+    "c32a796091d7913bfcaa3625c234920de8a4b6fedd2575aef7facb3d34e381b606f65226f78ab278db3275fc664928d1"
+   ],
+   "names": [
+    "RecoveryMode"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-02T16:45:04Z"
+  },
+  "048-57965-556.dmg.image-img4": {
+   "kbag": "",
+   "filename": "048-57965-556.dmg.image-img4",
+   "digests": [
+    "ec9daa2a6ce3f181cdb53022b9826b44ccfb230dbe96c5b24c6eedb895e3f68a4a2a1f1eed34216c15a16304a9f1cff3"
+   ],
+   "names": [
+    "RestoreRamDisk",
+    "OTARamdisk"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-02T16:45:07Z"
+  },
+  "Firmware/all_flash/sep-firmware.n131s.RELEASE.im4p": {
+   "kbag": "a2d67fcc753675902549e035835319f398722080e868a17f31164d2cae025104cd1c31c4a52172b1a4b08b16f67d7b6b",
+   "filename": "Firmware/all_flash/sep-firmware.n131s.RELEASE.im4p",
+   "digests": [
+    "08669ddaf621f54e0d2f12e19b28bc01314bf9915c5012663f0bfed93cc82690378c0993c85b4716e2264338df28a7b5",
+    "3d75f081511e908163ea4f4f8424d40e2bda35da17cb9b7e060ef14b8bbc162a66138d7a3d0da62548beee3c20b36b63"
+   ],
+   "names": [
+    "RestoreSEP",
+    "SEP"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2026-09-02T16:45:07Z"
+  },
+  "Firmware/048-57965-556.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/048-57965-556.dmg.trustcache",
+   "digests": [
+    "b3331093f574e6304bf90e5ec78e57cd9d5f68f39eb8c98288cfa275fe6c911deaadb3f063bf2ef4cf89ccbf09077804"
+   ],
+   "names": [
+    "RestoreTrustCache"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2026-09-02T16:45:08Z"
+  },
+  "Firmware/scefw.im4p": {
+   "kbag": "",
+   "filename": "Firmware/scefw.im4p",
+   "digests": [
+    "215bd91ab8a8669342aefc882c3c32acd8ef0c78debdf4d9c71c742ab50f19b1cb0758258f5dc1db56be1dfa51d229fe"
+   ],
+   "names": [
+    "SCE"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-02T16:45:08Z"
+  },
+  "Firmware/SmartIOFirmware_ASCv2.im4p": {
+   "kbag": "",
+   "filename": "Firmware/SmartIOFirmware_ASCv2.im4p",
+   "digests": [
+    "20291f0020ac79ffebb678a53b13e258c7e200ef692fbff39ce278bfdb9b74775dfded9c3ae7e1c872f8e4d570c2e799"
+   ],
+   "names": [
+    "SIO"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-02T16:45:08Z"
+  },
+  "Firmware/048-57915-492.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/048-57915-492.dmg.trustcache",
+   "digests": [
+    "49c08eb3d3493d2943657667f310450ced81e127fe7121f7548e7323337a1feebe79f78cfc6cbbb7831da9e3eac4e4f6"
+   ],
+   "names": [
+    "StaticTrustCache"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2026-09-02T16:45:09Z"
+  },
+  "Firmware/048-57915-492.dmg.root_hash": {
+   "kbag": "",
+   "filename": "Firmware/048-57915-492.dmg.root_hash",
+   "digests": [
+    "53679d40581678255c6ac9dcaf376b71080c88cca5946546eeabcc25178bc7cd4ce9cc43aeddfccd07de19983dff0a1e"
+   ],
+   "names": [
+    "SystemVolume"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-02T16:45:09Z"
+  },
+  "Firmware/WirelessPower/WirelessPower.watch4.im4p": {
+   "kbag": "",
+   "filename": "Firmware/WirelessPower/WirelessPower.watch4.im4p",
+   "digests": [
+    "83a5b7b722a1b3bb0fe4f5bbcb07fe0afa261f71468840fcfa1b51847cf5b9252758f9723aea07bbeadebc8332521475"
+   ],
+   "names": [
+    "WCHFirmwareUpdater"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-02T16:45:09Z"
+  },
+  "Firmware/dfu/iBEC.n131s.RELEASE.im4p": {
+   "kbag": "88df01f70c3852cb3cfcfd69f10c2d501f57af1ecc075ca04663819442e2cae757d878d481139c4079ac8d8ea6d9621c",
+   "filename": "Firmware/dfu/iBEC.n131s.RELEASE.im4p",
+   "digests": [
+    "ada5e8bc5ae7677420bca8b797c8f6550879070c6165f114b9f37e53341952487d19857fc30ba563e17c9f355eeb66e3"
+   ],
+   "names": [
+    "iBEC"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "30a1fd917a0dba1d9d4a0f582ce62cdc",
+   "key": "149fa06c3ed2de1c023989e65a647ba7ce9d872ec175b3f78bde59d802a1a653",
+   "date": "2026-09-02T16:45:09Z"
+  },
+  "Firmware/dfu/iBSS.n131s.RELEASE.im4p": {
+   "kbag": "cc782aff852e324684b3237b6d9b7397a274c9beea998211c999c61edbcb1da698f6fa3bc3ac89581137ed5d407fd93f",
+   "filename": "Firmware/dfu/iBSS.n131s.RELEASE.im4p",
+   "digests": [
+    "b4097f77b95d3e10cbee04a5443c7a25cb8af29b2941aa383853cfa67642dc83f30c801a5568ebe31a9504ca6684e63c"
+   ],
+   "names": [
+    "iBSS"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "4695c8dbd539fbb5053f31bb3f0a796f",
+   "key": "2ddd36d8f90b8074a39086ef00c343838ee99bb1ce785715c803d7d2713b74e2",
+   "date": "2026-09-02T16:45:10Z"
+  },
+  "Firmware/all_flash/iBoot.n131s.RELEASE.im4p": {
+   "kbag": "7a12afdf299d223b3877949b8b415dc40614db5d53f7c2e649b1ccb235f1c85fc6c5809b2dfc260285ed9ee53551b41b",
+   "filename": "Firmware/all_flash/iBoot.n131s.RELEASE.im4p",
+   "digests": [
+    "5e13446121f984ff429e405115c59b2457e845f1f0a28b7df2d070dba0e95e580970128f904baedf1f8912ffa4cbb71e"
+   ],
+   "names": [
+    "iBoot"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "cb94d8f18ad8842f54b059aea70fcc17",
+   "key": "c2ce34d1289a54db3dfdcad843c6c15140ab520fe183774de0459ec767ed2cdf",
+   "date": "2026-09-02T16:45:10Z"
+  }
+ },
+ "urls": [
+  "https://updates.cdn-apple.com/2020SummerFCS/patches/041-32641/33E255A9-9AA1-4702-9773-129CC455ECC6/com_apple_MobileAsset_SoftwareUpdate/4cec63e8957f41587a3607b39c56d31283b1f5f8.zip"
+ ]
+}
