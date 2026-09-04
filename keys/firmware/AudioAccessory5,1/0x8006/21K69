@@ -1,0 +1,321 @@
+{
+ "version": "1.0",
+ "ProductType": "AudioAccessory5,1",
+ "BuildTrain": "StarlightB",
+ "ProductBuildVersion": "21K69",
+ "ProductVersion": "17.1",
+ "cpid": "0x8006",
+ "bdid": "0x22",
+ "keys": {
+  "Firmware/ACIBTFirmware/BT_FW_m9.im4p": {
+   "kbag": "",
+   "filename": "Firmware/ACIBTFirmware/BT_FW_m9.im4p",
+   "digests": [
+    "dfd6c12d4f174cc81ce3ab73bae8e9cc2e8080ee60a49fe131fedc0768e0b1242ea3abd2e023550462ed17232e2122ca"
+   ],
+   "names": [
+    "ACIBT"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-04T11:54:20Z"
+  },
+  "Firmware/aciwififirmware/wifi_armv7r_m9_rtkit_image.im4p": {
+   "kbag": "",
+   "filename": "Firmware/aciwififirmware/wifi_armv7r_m9_rtkit_image.im4p",
+   "digests": [
+    "cab7bb1aeac774b21aa846d43aea2b317f2d2de9cdeb4b5674ab2a79e684eb8a89b6eff2b21c1c9e8b2f045e72467410"
+   ],
+   "names": [
+    "ACIWIFI"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-04T11:54:20Z"
+  },
+  "Firmware/ane/h11_ane_fw_mercury.im4p": {
+   "kbag": "",
+   "filename": "Firmware/ane/h11_ane_fw_mercury.im4p",
+   "digests": [
+    "dc04e83113e2a4d5f703bf83bbe8aea8f419df0d38e56bc87eff938b3415cc917947009890f56b5ab2ac1c727c17c23e"
+   ],
+   "names": [
+    "ANE"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-04T11:54:20Z"
+  },
+  "Firmware/AOP/aopfw-b520aop.im4p": {
+   "kbag": "",
+   "filename": "Firmware/AOP/aopfw-b520aop.im4p",
+   "digests": [
+    "530df8c34348398d6299ceda6e3ca9cedced85972f7253d878a12dc567735f82c32be5613fcfaf171075b30c92b0d135"
+   ],
+   "names": [
+    "AOP"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-04T11:54:21Z"
+  },
+  "Firmware/097-25993-079.dmg.mtree": {
+   "kbag": "",
+   "filename": "Firmware/097-25993-079.dmg.mtree",
+   "digests": [
+    "1c295d31758e1be49d45f6914712aa99c957167881a30baa9166ad36ec1fb113df59dfab2a58930d4e717ea3fce38833"
+   ],
+   "names": [
+    "Ap,SystemVolumeCanonicalMetadata"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-04T11:54:21Z"
+  },
+  "Firmware/all_flash/DeviceTree.b520ap.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/DeviceTree.b520ap.im4p",
+   "digests": [
+    "87620c564e0b49a9c84bbd86c560dedd74db848cb772125cd980dc8ea16a6d2a0ca0f36e1beffc732485318a88cc59e3",
+    "6e68b0a1f9d3d70b42464fecbe334ee97820f00a889a3d54c8afbc3e6c074c853ab4c00bef0f42deb0ee112dfa5b2074"
+   ],
+   "names": [
+    "DeviceTree",
+    "RestoreDeviceTree"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-04T11:54:21Z"
+  },
+  "Firmware/agx/armfw_g11m.im4p": {
+   "kbag": "",
+   "filename": "Firmware/agx/armfw_g11m.im4p",
+   "digests": [
+    "39cec798ddfc01dd8b09af5efeb05c41a10f169c1243c170f7e26965d24259ce730aef6448cf0b64274fd114cf84c46b"
+   ],
+   "names": [
+    "GFX"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-04T11:54:21Z"
+  },
+  "kernelcache.release.b520": {
+   "kbag": "",
+   "filename": "kernelcache.release.b520",
+   "digests": [
+    "abe8d4c1da269dc1ba05c1ace2388855e495141b1e4758f42852d1216fd539af514400fc121b18362d7b6f06f2d2d155",
+    "3a85b06ad883f3b76f2e90a5372ef9330af0f3a8ac1ca7517f4000fb11560060a5a381ea8bfb28a954bfd07fab299057"
+   ],
+   "names": [
+    "KernelCache",
+    "RestoreKernelCache"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-04T11:54:23Z"
+  },
+  "Firmware/all_flash/LLB.b520.RELEASE.im4p": {
+   "kbag": "6bbfd58b28f7f5b0d265e8b32856fd4560172a97b466a2fd335e71bd5281f3a0c20b8e4ab30bf70879d807dc7626ad3d",
+   "filename": "Firmware/all_flash/LLB.b520.RELEASE.im4p",
+   "digests": [
+    "335e4d7a461f538743c7117c67ef5029e530d037d24b2095ac25e2ba405d511c9d1d6dd0953d162f3a4c9dbfbdc1b60e"
+   ],
+   "names": [
+    "LLB"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "f226be082249683d510abf3c58d7fcc2",
+   "key": "0e1c20ac5eee4363e78534d686a542f2a2229ca42e711dd797b5640725ce904b",
+   "date": "2026-09-04T11:54:23Z"
+  },
+  "Firmware/rtpfw.im4p": {
+   "kbag": "",
+   "filename": "Firmware/rtpfw.im4p",
+   "digests": [
+    "fd76a9457d88217afeded1afae59b8657ffef12a9edd01ab6091f963736036c659c9f62b0729f6bc920e859b532fb6ce",
+    "6ca3e9f0c5c98a80d22fba27758e889e9340731c7b282bef52b6af190aa62449e76540bc6aa12ac16d55d60a40de06db"
+   ],
+   "names": [
+    "RTP",
+    "RestoreRTP"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-04T11:54:23Z"
+  },
+  "arm64eSURamDisk.dmg": {
+   "kbag": "",
+   "filename": "arm64eSURamDisk.dmg",
+   "digests": [
+    "9e3da73e6a7d48ee657003d91974bae20f44460ba4e816981f71f4ba0d2060dc4263cb458e544c200c5b2ea8a693cd81"
+   ],
+   "names": [
+    "RestoreRamDisk",
+    "OTARamdisk"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-04T11:54:29Z"
+  },
+  "Firmware/all_flash/sep-firmware.b520.RELEASE.im4p": {
+   "kbag": "978accd3a88d25b5848ebd99a75b9f7fc15988de9abc8a73640a5b28fd244233a3db859bee4a0307c89dc75ed847be34",
+   "filename": "Firmware/all_flash/sep-firmware.b520.RELEASE.im4p",
+   "digests": [
+    "2c6589c5d47d4444babc3cb5bc06824c0d62dd3505f77c9a6328c02691c66123a48052610ebb2ffe0680758ae3f626e6",
+    "869906ff558613b04bebf24abbfe19a70e8acbab136e60ffd6eedd808bff02acb588d0f59e9195445a8e1a24affd1adc"
+   ],
+   "names": [
+    "RestoreSEP",
+    "SEP"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2026-09-04T11:54:29Z"
+  },
+  "Firmware/arm64eSURamDisk.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/arm64eSURamDisk.dmg.trustcache",
+   "digests": [
+    "4ebe3dc8a8ef7cd9b39348dd202e1b3a5a1df18450ca06cb9ee584b8d515cebfccb175f8ec99ccfaea9ee322f9c897ff"
+   ],
+   "names": [
+    "RestoreTrustCache"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2026-09-04T11:54:29Z"
+  },
+  "Firmware/SmartIOFirmware_ASCv2.im4p": {
+   "kbag": "",
+   "filename": "Firmware/SmartIOFirmware_ASCv2.im4p",
+   "digests": [
+    "45890e5c5c90ca59000c92101ba837306df27bf76254f60bfd097b21ed04681b080af5f2bf088cef04063841e1dd0b65"
+   ],
+   "names": [
+    "SIO"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-04T11:54:30Z"
+  },
+  "Firmware/097-25993-079.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/097-25993-079.dmg.trustcache",
+   "digests": [
+    "b6cbb93ff0d95dc9d5761cd5d62c78d588dfa2f6fa77a516f2f2ad3f8c1f8964f32673e4dbfbc5e2b2ef7aae9f4634e5"
+   ],
+   "names": [
+    "StaticTrustCache"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "date": "2026-09-04T11:54:30Z"
+  },
+  "Firmware/097-25993-079.dmg.root_hash": {
+   "kbag": "",
+   "filename": "Firmware/097-25993-079.dmg.root_hash",
+   "digests": [
+    "ce1c02b2f76d692f03938c4884e8742388d07c9996164b93d4271ff251d216c55922acfb82bcedb944f053825e439654"
+   ],
+   "names": [
+    "SystemVolume"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-09-04T11:54:30Z"
+  },
+  "Firmware/dfu/iBEC.b520.RELEASE.im4p": {
+   "kbag": "4531e5fb2ccdcde310d1e19a8a8bb51b04785979f97178256bec77edbfc697ae26b99cac1e36ceb2467c673208f41635",
+   "filename": "Firmware/dfu/iBEC.b520.RELEASE.im4p",
+   "digests": [
+    "8ee61ac042d963d8c9adc13e78bfa6109e5f293683d75651e8592107a168440231b38d8b8f7863a8dafaced8c65c2cb7"
+   ],
+   "names": [
+    "iBEC"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "ae32794a80cd20afc0975e585291e796",
+   "key": "7d2289f22e3670010513c8f311f2b53615aababaa599c65d3be3253228559ec1",
+   "date": "2026-09-04T11:54:31Z"
+  },
+  "Firmware/dfu/iBSS.b520.RELEASE.im4p": {
+   "kbag": "71ade822c6010b49ba2cad9764121a7291bb58b525b6e0ebf77da5631d71e14202bc7eba2525a09c564744488c0cba48",
+   "filename": "Firmware/dfu/iBSS.b520.RELEASE.im4p",
+   "digests": [
+    "bf90d5180ad5e1d0dae5cb32ce585e2d0715f3a10fb63f3e566b08955468e771bf7cfd184e6622fc1f00ff6ec2191ab0"
+   ],
+   "names": [
+    "iBSS"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "07dcb84578a1d8ca240ea1cf94a2359b",
+   "key": "3dcca2d6a9bbd0aa91286bd6598bb198caf24b38ed9d7a86dcd61708a9d2b2bf",
+   "date": "2026-09-04T11:54:31Z"
+  },
+  "Firmware/all_flash/iBoot.b520.RELEASE.im4p": {
+   "kbag": "79a7c5287d1a0ebc9dc3bac0a8c1fd701e64264d3825a07f7d5d4e63a89d43a6adad42e73029bf941a541e62e8503746",
+   "filename": "Firmware/all_flash/iBoot.b520.RELEASE.im4p",
+   "digests": [
+    "69bc00080409adcf391bc7e90875fab24237dfc629c866755802e7c586b46e02238e607f2546f30bdcb57b50055bbeec"
+   ],
+   "names": [
+    "iBoot"
+   ],
+   "variants": [
+    "Customer Software Update"
+   ],
+   "iv": "67362fa4e07e30a8913b4afd1599b610",
+   "key": "8b44181dee93c882fe851f21fdc1e729cbcc249c52c58a307fc9d5c3f4c52ea8",
+   "date": "2026-09-04T11:54:31Z"
+  }
+ },
+ "urls": [
+  "https://updates.cdn-apple.com/2023FallFCS/patches/042-83652/EB083C36-4528-4E13-B1E4-1E05BB9706A5/com_apple_MobileAsset_SoftwareUpdate/20cd4552c1e9fc3ebda760c0c6c4fd0576ab1e89.zip"
+ ]
+}
