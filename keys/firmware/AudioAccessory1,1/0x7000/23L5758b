@@ -1,0 +1,209 @@
+{
+ "version": "1.0",
+ "ProductType": "AudioAccessory1,1",
+ "BuildTrain": "CharismaGSeed",
+ "ProductBuildVersion": "23L5758b",
+ "ProductVersion": "26.6",
+ "cpid": "0x7000",
+ "bdid": "0x38",
+ "keys": {
+  "Firmware/141-16967-024.dmg.mtree": {
+   "kbag": "",
+   "filename": "Firmware/141-16967-024.dmg.mtree",
+   "digests": [
+    "93ad90fa188d2e814a1e6676712e4f706a003db3"
+   ],
+   "names": [
+    "Ap,SystemVolumeCanonicalMetadata"
+   ],
+   "variants": [
+    "Developer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-01T17:01:50Z"
+  },
+  "Firmware/all_flash/DeviceTree.b238aap.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/DeviceTree.b238aap.im4p",
+   "digests": [
+    "9c2919533972282c50d908efc57d475a034e7018",
+    "3c6cdf5aa79bdd39bc9c14ffff8342c0113c8639"
+   ],
+   "names": [
+    "DeviceTree",
+    "RestoreDeviceTree"
+   ],
+   "variants": [
+    "Developer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-01T17:01:50Z"
+  },
+  "kernelcache.release.b238": {
+   "kbag": "",
+   "filename": "kernelcache.release.b238",
+   "digests": [
+    "b1ac307dd77adedbc1bef7d95343fc5d440d8f08",
+    "4b2401c958271fb3f5c93c0c03f26f7d2f789687"
+   ],
+   "names": [
+    "KernelCache",
+    "RestoreKernelCache"
+   ],
+   "variants": [
+    "Developer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-01T17:01:51Z"
+  },
+  "Firmware/all_flash/LLB.b238a.RELEASE.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/LLB.b238a.RELEASE.im4p",
+   "digests": [
+    "e18a70f79bc70eb8aa00bc99056352497a7967da"
+   ],
+   "names": [
+    "LLB"
+   ],
+   "variants": [
+    "Developer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-01T17:01:51Z"
+  },
+  "arm64SURamDisk.dmg": {
+   "kbag": "",
+   "filename": "arm64SURamDisk.dmg",
+   "digests": [
+    "858b283d0c40b9e5216e383f68856e8a72b028d8"
+   ],
+   "names": [
+    "RestoreRamDisk",
+    "OTARamdisk"
+   ],
+   "variants": [
+    "Developer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-01T17:02:06Z"
+  },
+  "Firmware/all_flash/sep-firmware.b238a.RELEASE.im4p": {
+   "kbag": "d3fa42bf5c17c2048a7223ddbba4b8ee582515db6feac9ea33a5366daa021b14c2b51e78af5159ab40564c776c4c07be",
+   "filename": "Firmware/all_flash/sep-firmware.b238a.RELEASE.im4p",
+   "digests": [
+    "ad2c6fad7af25b8a5e592028e007ff580c7a807c",
+    "b9c3b1886c1b14731249ec503e6d8c8d03637d96"
+   ],
+   "names": [
+    "RestoreSEP",
+    "SEP"
+   ],
+   "variants": [
+    "Developer Software Update"
+   ],
+   "date": "2026-11-01T17:25:42Z",
+   "iv": "eb0dbb7dff468e37e21ba84b362887a0",
+   "key": "433c155309b332862599b8a8d337daa1d04e20a42e7582248f99a8f6a42d9bc0"
+  },
+  "Firmware/141-16967-024.dmg.root_hash": {
+   "kbag": "",
+   "filename": "Firmware/141-16967-024.dmg.root_hash",
+   "digests": [
+    "8f2ed80ea9b707c7e1695713931f7b3983128f49"
+   ],
+   "names": [
+    "SystemVolume"
+   ],
+   "variants": [
+    "Developer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-01T17:02:08Z"
+  },
+  "Firmware/dfu/iBEC.b238a.RELEASE.im4p": {
+   "kbag": "",
+   "filename": "Firmware/dfu/iBEC.b238a.RELEASE.im4p",
+   "digests": [
+    "0e3cec8d4000e902ed3d20b6330f5895a74bd481"
+   ],
+   "names": [
+    "iBEC"
+   ],
+   "variants": [
+    "Developer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-01T17:02:08Z"
+  },
+  "Firmware/dfu/iBSS.b238a.RELEASE.im4p": {
+   "kbag": "",
+   "filename": "Firmware/dfu/iBSS.b238a.RELEASE.im4p",
+   "digests": [
+    "da9b99ec93b5266aa3b4cbcfec0ebe89c6ede632"
+   ],
+   "names": [
+    "iBSS"
+   ],
+   "variants": [
+    "Developer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-01T17:02:08Z"
+  },
+  "Firmware/all_flash/iBoot.b238a.RELEASE.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/iBoot.b238a.RELEASE.im4p",
+   "digests": [
+    "e67ae06d9282285890e94a1a358a6af74263838f"
+   ],
+   "names": [
+    "iBoot"
+   ],
+   "variants": [
+    "Developer Software Update"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-01T17:02:08Z"
+  },
+  "Firmware/arm64SURamDisk.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/arm64SURamDisk.dmg.trustcache",
+   "digests": [
+    "a7013204500705514f5052186a706fc02a1d06de"
+   ],
+   "names": [
+    "RestoreTrustCache"
+   ],
+   "variants": [
+    "Developer Software Update"
+   ],
+   "date": "2026-11-01T17:25:43Z"
+  },
+  "Firmware/141-16967-024.dmg.trustcache": {
+   "kbag": "",
+   "filename": "Firmware/141-16967-024.dmg.trustcache",
+   "digests": [
+    "2a5348b2c3af53f04331dff996453626cd131a1e"
+   ],
+   "names": [
+    "StaticTrustCache"
+   ],
+   "variants": [
+    "Developer Software Update"
+   ],
+   "date": "2026-11-01T17:25:44Z"
+  }
+ },
+ "urls": [
+  "https://updates.cdn-apple.com/2026SpringSeed/patches/140-30407/BDF16B1E-1A30-4913-B572-F37867A532A0/com_apple_MobileAsset_SoftwareUpdate/076aa5c18c6187d1335e9831fdbc94aed00fe0f8.zip"
+ ]
+}
