@@ -1,0 +1,570 @@
+{
+ "version": "1.0",
+ "ProductType": "Watch2,7",
+ "BuildTrain": "Electric",
+ "ProductBuildVersion": "14V224",
+ "ProductVersion": "3.2",
+ "cpid": "0x8002",
+ "bdid": "0x4",
+ "keys": {
+  "Firmware/aopfw.im4p": {
+   "kbag": "",
+   "filename": "Firmware/aopfw.im4p",
+   "digests": [
+    "cec07c1fe9b0af00821496837ad976ea667603d04730b07ded2a19d045735c3bef296236ae1bd5d0499418a59cbc57f5"
+   ],
+   "names": [
+    "AOP"
+   ],
+   "variants": [
+    "Factory - DFU",
+    "Factory - Baseband DFU",
+    "Factory - Software Download",
+    "Factory - Support",
+    "Internal NonUI Debug"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-05T15:41:07Z"
+  },
+  "Firmware/all_flash/skankwerklogo@132~watch.t8002.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/skankwerklogo@132~watch.t8002.im4p",
+   "digests": [
+    "bb13e29313a31d96fbfdb41818780b5a08bd99effda2a4cca86bddcbdccb1a5c36b4b2d702de2db53ad1247ba6caedec",
+    "e95b1d9d007c3ebc154da41ad84eceeeeff9ecf775d61b8b7baa8c4d7307cd3e6151a4a2565b91bc4e9b2978974c5698"
+   ],
+   "names": [
+    "AppleLogo",
+    "RestoreLogo"
+   ],
+   "variants": [
+    "Factory - DFU",
+    "Factory - Baseband DFU",
+    "Factory - Software Download"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-05T15:41:07Z"
+  },
+  "FactoryTests/n28d/cfeldr.n28d.im4p": {
+   "kbag": "",
+   "filename": "FactoryTests/n28d/cfeldr.n28d.im4p",
+   "digests": [
+    "242d55d2c6dda88f7846208018d65ba4fc3f5cec4569c17911c22a70ac72d0a3d9c3e38af69465aa1ae4acfbde2469b3"
+   ],
+   "names": [
+    "CFELoader"
+   ],
+   "variants": [
+    "Factory - DFU",
+    "Factory - Baseband DFU",
+    "Factory - Software Download"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-05T15:41:07Z"
+  },
+  "Firmware/all_flash/dali-nonui.n28d.release.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/dali-nonui.n28d.release.im4p",
+   "digests": [
+    "99e6ee9a59c3b391f2f2203f2ad8df80a9e53104eb30df085cb33175d0eaf9bfb4cd0c4c73e95cd453bd2bb165f1fb47"
+   ],
+   "names": [
+    "Dali"
+   ],
+   "variants": [
+    "Factory - DFU",
+    "Factory - Baseband DFU",
+    "Factory - Software Download"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-05T15:41:07Z"
+  },
+  "Firmware/all_flash/DeviceTree.n28dap.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/DeviceTree.n28dap.im4p",
+   "digests": [
+    "2b16dabdfeee20f91a1c6d2920be4ddb7789bd9629b4f88c6d68c9489b674d533feec99832e4f00513284044bed5f14b",
+    "250e3907a8ea111e144e9cfdf54780b6357d4ff0370b9d5d408e0e9ff0631910f2e02ae3ef225ba1cc52435cbcb8eb63"
+   ],
+   "names": [
+    "DeviceTree",
+    "RestoreDeviceTree"
+   ],
+   "variants": [
+    "Factory - DFU",
+    "Factory - Baseband DFU",
+    "Factory - Software Download",
+    "Factory - Support",
+    "Internal NonUI Debug"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-05T15:41:07Z"
+  },
+  "Diags/diag-N28D.im4p": {
+   "kbag": "",
+   "filename": "Diags/diag-N28D.im4p",
+   "digests": [
+    "b52de7b057bf5d5cf45d243c1bca8238d52d8172eb739d6853e0001a9b076ae93e599a6ace70f4a38b60942c55f8ad01"
+   ],
+   "names": [
+    "Diags"
+   ],
+   "variants": [
+    "Factory - DFU",
+    "Factory - Baseband DFU",
+    "Factory - Software Download"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-05T15:41:07Z"
+  },
+  "Firmware/all_flash/LLB.n28d.DEVELOPMENT.im4p": {
+   "kbag": "9ae8977a32f1d7ad170b78927b9764c62aaba2d8f89c9c4fd9abde432190a1ea7895a39f52bd804218aec2358d99ed8c",
+   "filename": "Firmware/all_flash/LLB.n28d.DEVELOPMENT.im4p",
+   "digests": [
+    "c01ba49a5fc274d08cff7fa9d3d5116b8d04ff8780526fb8167ab735e1aac4fe5609647e7c278f843b75e7d1957f91bc"
+   ],
+   "names": [
+    "LLB"
+   ],
+   "variants": [
+    "Factory - DFU",
+    "Factory - Baseband DFU",
+    "Factory - Software Download"
+   ],
+   "iv": "9a8d5ba82784aa40e3f996cd98b23fef",
+   "key": "1956ce726fff6eaedb7bce913b5e3c09cb492a29ff9072a9c04ddc8c77555019",
+   "date": "2026-11-05T15:41:07Z"
+  },
+  "FactoryTests/n28d/hammer.n28d.im4p": {
+   "kbag": "",
+   "filename": "FactoryTests/n28d/hammer.n28d.im4p",
+   "digests": [
+    "3fe89a8b57bef826eba54ae004e75260d6448a916e5414d7b5576035ea339a130006d3855276d66f0011611068a3e75b"
+   ],
+   "names": [
+    "PEHammer"
+   ],
+   "variants": [
+    "Factory - DFU",
+    "Factory - Baseband DFU",
+    "Factory - Software Download"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-05T15:41:07Z"
+  },
+  "FactoryTests/n28d/console.n28d.im4p": {
+   "kbag": "",
+   "filename": "FactoryTests/n28d/console.n28d.im4p",
+   "digests": [
+    "0f91e1500411527f6cd662bb9b3652e91bae7021467c86d04fa8af40220e93a68132a7e78613f3999dffb6d39f0e163e"
+   ],
+   "names": [
+    "PERTOS"
+   ],
+   "variants": [
+    "Factory - DFU",
+    "Factory - Baseband DFU",
+    "Factory - Software Download"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-05T15:41:07Z"
+  },
+  "FactoryTests/n28d/phleet.n28d.im4p": {
+   "kbag": "",
+   "filename": "FactoryTests/n28d/phleet.n28d.im4p",
+   "digests": [
+    "ae12b78fb6b65591bbea02fa383197b1f053f9e3e58bf7864ea646f679c6fbe763057132505dbc01627c2b9646a9b011"
+   ],
+   "names": [
+    "PHLEET"
+   ],
+   "variants": [
+    "Factory - DFU",
+    "Factory - Baseband DFU",
+    "Factory - Software Download"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-05T15:41:08Z"
+  },
+  "Firmware/rtpfw.im4p": {
+   "kbag": "",
+   "filename": "Firmware/rtpfw.im4p",
+   "digests": [
+    "2955077633101e1455f232eca51eedad64064c32e2ec00b15e42cb4b0ad0d6375cd5d4780a571c8d3268b9bb6b5f78c7"
+   ],
+   "names": [
+    "RTP"
+   ],
+   "variants": [
+    "Factory - DFU",
+    "Factory - Baseband DFU",
+    "Factory - Software Download",
+    "Factory - Support",
+    "Internal NonUI Debug"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-05T15:41:08Z"
+  },
+  "Firmware/all_flash/recoverymode@132~watch.t8002.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/recoverymode@132~watch.t8002.im4p",
+   "digests": [
+    "9765aa2ea761bf5a393345f9f4e360b529790f9d768627dd12b96fc336499c368dd818427c67bd508807b783e07c27a8"
+   ],
+   "names": [
+    "RecoveryMode"
+   ],
+   "variants": [
+    "Factory - DFU",
+    "Factory - Baseband DFU",
+    "Factory - Software Download",
+    "Factory - Support",
+    "Internal NonUI Debug"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-05T15:41:08Z"
+  },
+  "kernelcache.development.watch2d": {
+   "kbag": "",
+   "filename": "kernelcache.development.watch2d",
+   "digests": [
+    "a0ecf42ece27d13edbb998844e3dac8a73d0fe0e70daf3b386647f02d7409b2fdfd19504cbf6bc65c89a2cb53d4f4e3d",
+    "7d8851b701ff324c28e504ab54d9c50c27e1dc6f2890733cf6230480de6099a2005aef6ff87a27d2e5d6faf52e4e12a7"
+   ],
+   "names": [
+    "RestoreKernelCache",
+    "KernelCache"
+   ],
+   "variants": [
+    "Factory - DFU",
+    "Factory - Baseband DFU",
+    "Factory - Software Download",
+    "Factory - Support",
+    "Internal NonUI Debug"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-05T15:41:08Z"
+  },
+  "058-62086-105.dmg": {
+   "kbag": "",
+   "filename": "058-62086-105.dmg",
+   "digests": [
+    "a947ce4cf1eee41b66df18f15b5f3fd31baab57e0551207434359aae243aeb51807f4ce24db033edda0964eaca60a51e"
+   ],
+   "names": [
+    "RestoreRamDisk",
+    "FactoryDFURamdisk",
+    "FactoryBBDFURamdisk",
+    "FactorySoftwareDownloadRamdisk",
+    "InternalNonUIDebugRamdisk"
+   ],
+   "variants": [
+    "Factory - DFU",
+    "Factory - Baseband DFU",
+    "Factory - Software Download",
+    "Internal NonUI Debug"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-05T15:41:08Z"
+  },
+  "Firmware/all_flash/sep-firmware.n28d.FACTORY.im4p": {
+   "kbag": "02c7be21ddd651c2982d0d083aad8a96dd960b912b13e3c1a94c0d0a9ea9655411d1b8c1e0ac2079bc9570b26d9f0879",
+   "filename": "Firmware/all_flash/sep-firmware.n28d.FACTORY.im4p",
+   "digests": [
+    "8030761af78afbd7497c96c23b93b698b896da85de19b2d2af639002f8f950ebe24322a5c12278a0035792ac81f4f250",
+    "a887fa90cebbd5678bc590fbb9c507f00bed11b920fe3a4694e0e89aeb97efb3c878fcaf9a1db619830a31f2996422f5"
+   ],
+   "names": [
+    "RestoreSEP",
+    "SEP"
+   ],
+   "variants": [
+    "Factory - DFU",
+    "Factory - Baseband DFU",
+    "Factory - Software Download"
+   ],
+   "date": "2026-11-05T15:41:08Z"
+  },
+  "Firmware/dfu/iBEC.n28d.DEVELOPMENT.im4p": {
+   "kbag": "93655fc52b74104337c7207cf3b53f4ff6cb6fb8f4e8b977cf81be47f06a935ef80015699fba22b0a0692f86d6cb0ee1",
+   "filename": "Firmware/dfu/iBEC.n28d.DEVELOPMENT.im4p",
+   "digests": [
+    "2068b0f270b82b63bffe00a3ddc31c67b255df7f15c77ae5e119c57f5e0d9664edc9e25864859c363438d2492b0cc80e"
+   ],
+   "names": [
+    "iBEC"
+   ],
+   "variants": [
+    "Factory - DFU",
+    "Factory - Baseband DFU",
+    "Factory - Software Download",
+    "Factory - Support"
+   ],
+   "iv": "b8bbb1f036cacc35cf9772b9124c6f67",
+   "key": "572add2fbc8175a25f5a2428528ed5abe31fd08afa93d3810cba9a46d4fa8ad1",
+   "date": "2026-11-05T15:41:08Z"
+  },
+  "Firmware/dfu/iBSS.n28d.DEVELOPMENT.im4p": {
+   "kbag": "17c2510ad5746f95df7f5a98ac3a7c24c0a4fef4728dbd46d8c45eb958a10c8626be8ec6909b9c04935e4f6076fa2a93",
+   "filename": "Firmware/dfu/iBSS.n28d.DEVELOPMENT.im4p",
+   "digests": [
+    "8f547cf9ce941cd4f2a804d7b23a7ab47c78a7b6270103b7229cceeb10373d71d75a9832cee388d239ed6ae6fc1dbfdb"
+   ],
+   "names": [
+    "iBSS"
+   ],
+   "variants": [
+    "Factory - DFU",
+    "Factory - Baseband DFU",
+    "Factory - Software Download",
+    "Factory - Support"
+   ],
+   "iv": "b3564f94ae3e972c19d4986a892f28de",
+   "key": "412d1a5aff3b2e24575df54f29577c14c5ea30459d8ff4559efb129993c9a619",
+   "date": "2026-11-05T15:41:08Z"
+  },
+  "Firmware/all_flash/iBoot.n28d.DEVELOPMENT.im4p": {
+   "kbag": "3f9dd7e44e8c0840c175c881ddb44520e0c582ce937d089d9f315e1c99fb20a31f7b2045b7594fbbe6f2432756d34f1c",
+   "filename": "Firmware/all_flash/iBoot.n28d.DEVELOPMENT.im4p",
+   "digests": [
+    "58d4996e1e99619b54f5aee45eb6d94ba1c3d2f03e882c6f3cd0254cb948374d7c13ac763ea0beaefd97e7bbbb74dcec"
+   ],
+   "names": [
+    "iBoot"
+   ],
+   "variants": [
+    "Factory - DFU",
+    "Factory - Baseband DFU",
+    "Factory - Software Download"
+   ],
+   "iv": "f734dba1a8ea760cb3e5a3b9b89986a9",
+   "key": "479a43e59d196f099cef68f9f4170b12fffa4572790ed74ac011fdf2e9d950c8",
+   "date": "2026-11-05T15:41:08Z"
+  },
+  "Firmware/all_flash/applelogo@132~watch.t8002.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/applelogo@132~watch.t8002.im4p",
+   "digests": [
+    "7a7ce14ff509b7c1d9dca086d173d6d60349f4b0e756bf693a7fdab6deb7916745f4c927ddf7ffd882ec9571d503d4ae",
+    "435441572ba92b01f6360bc965a90839f3218f783d0c77fda2cdfafe794d676e7926fca3d2deb80c1834241ca3d96706"
+   ],
+   "names": [
+    "AppleLogo",
+    "RestoreLogo"
+   ],
+   "variants": [
+    "Factory - Support",
+    "Internal NonUI Debug"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-05T15:41:08Z"
+  },
+  "Firmware/all_flash/dali-ui.n28d.release.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/dali-ui.n28d.release.im4p",
+   "digests": [
+    "b8d72cfd1318d0fc473d3b4e6853a18ed3f88ac3e2b28363d7a01030e9e34e2256983ff1f3693073030029f3f08065ad"
+   ],
+   "names": [
+    "Dali"
+   ],
+   "variants": [
+    "Factory - Support"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-05T15:41:08Z"
+  },
+  "Firmware/all_flash/LLB.n28d.RELEASE.im4p": {
+   "kbag": "bdef82ad68664cff8d7b4bb0221f54720114ca61eecf9acde2449f950c8b9fe9206e875ad7369d73a08ef221a4c62c02",
+   "filename": "Firmware/all_flash/LLB.n28d.RELEASE.im4p",
+   "digests": [
+    "b424b5177564e841d37de8a3c1add4118fff9d8146210aa8648a2f2091d919d020732116a793cc4beb8f6b80f6874858"
+   ],
+   "names": [
+    "LLB"
+   ],
+   "variants": [
+    "Factory - Support"
+   ],
+   "iv": "53d4f893976eb9296cf770a6a0347cab",
+   "key": "4f7159a33128ae7a49e9f1eb128f87ea82f1166be46a0d34eae66d112173133d",
+   "date": "2026-11-05T15:41:08Z"
+  },
+  "058-62083-105.dmg": {
+   "kbag": "",
+   "filename": "058-62083-105.dmg",
+   "digests": [
+    "a9a389af5e96d01a44a9f52c128f910f5b2e8c3691fe3fec6500582b9447d5d5ffe89231faff38a4c8daea948e4cf545"
+   ],
+   "names": [
+    "RestoreRamDisk",
+    "FactorySupportRamdisk"
+   ],
+   "variants": [
+    "Factory - Support"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-05T15:41:08Z"
+  },
+  "Firmware/all_flash/sep-firmware.n28d.RELEASE.im4p": {
+   "kbag": "793d741125e80612bbbe3e2740445cf64020e4617534ed06372471f5aaf4bfecd2042db093ef56147082c39e22a2f72b",
+   "filename": "Firmware/all_flash/sep-firmware.n28d.RELEASE.im4p",
+   "digests": [
+    "c81c0ce19085f7d7e686db28b1e6a6b2160e0aedd457c08813d37d5f22911f5d02617f048571fe868a34eca8e9ea0ea4",
+    "dbc29f74a086a95e85b5b1ac6fe980bf0e216b877ae33bde827d652fed38f3231492f0a1353b8c263ae0512413e3e1a5"
+   ],
+   "names": [
+    "RestoreSEP",
+    "SEP"
+   ],
+   "variants": [
+    "Factory - Support"
+   ],
+   "date": "2026-11-05T15:41:08Z"
+  },
+  "Firmware/all_flash/iBoot.n28d.RELEASE.im4p": {
+   "kbag": "cdbbda1a359044f3945162ef0406d850fdd88fc8315da16f1a6e736c34ffde04ce9b2264917f8a5c6fe3ddc24916795c",
+   "filename": "Firmware/all_flash/iBoot.n28d.RELEASE.im4p",
+   "digests": [
+    "75c6a5f32d779868546092d6762c796a45ef3943622c62ce2eebe0054de8b7f5391dc9187f8690a9b22684592b370130"
+   ],
+   "names": [
+    "iBoot"
+   ],
+   "variants": [
+    "Factory - Support"
+   ],
+   "iv": "56f183e0b6f81c42624c006ce6d9a8cf",
+   "key": "c18e3380701b9e69be14b76df702a5850b82b757dd2c1e7305b24a75506f3ed8",
+   "date": "2026-11-05T15:41:09Z"
+  },
+  "Firmware/all_flash/dali-ui.n28d.debug.im4p": {
+   "kbag": "",
+   "filename": "Firmware/all_flash/dali-ui.n28d.debug.im4p",
+   "digests": [
+    "2d0d8e4e042803be2baadb13c34dc05655063cb3d9d07f5137f9fbac1c7cfe52c225133337cecd7df2d2c3ffd076a72f"
+   ],
+   "names": [
+    "Dali"
+   ],
+   "variants": [
+    "Internal NonUI Debug"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-05T15:41:09Z"
+  },
+  "Firmware/all_flash/LLB.n28d.DEBUG.im4p": {
+   "kbag": "e8426b4dfa93996cbd02b4bd1b9c73d0fda9c88eaf6ac862b22f42066138731c45ad79904ea343cec04238efa97de179",
+   "filename": "Firmware/all_flash/LLB.n28d.DEBUG.im4p",
+   "digests": [
+    "46c1c406cbe14a4fdaef59c4ac3b6a2112a4433d14a2fa0b7902be9f126c6202b0fbf66a27acd8ce4fa9397df8fa5b87"
+   ],
+   "names": [
+    "LLB"
+   ],
+   "variants": [
+    "Internal NonUI Debug"
+   ],
+   "iv": "44683e438f19a4b89f03150c09a67ece",
+   "key": "b0832fccdeea355233e97083a849b53c396a3f7b421d197e90fe38298c6cf6dd",
+   "date": "2026-11-05T15:41:09Z"
+  },
+  "Firmware/all_flash/sep-firmware.n28d.DEBUG.im4p": {
+   "kbag": "fa8e794d6eb03feeb0ff3f913e8a666519947f64023fb7b917e507fd6f1cbec80fa14a624d85b7a9d026613b4e958f6e",
+   "filename": "Firmware/all_flash/sep-firmware.n28d.DEBUG.im4p",
+   "digests": [
+    "1c33ad249984011f50a75a73bb659afb83b9b0b2db223f645472b19d000c252884fef03b2b10401fc0e30dfb1a8e3653",
+    "31ecc39458fbf477554780145d316f29c640040e7d2c54afb0be5a580397b40863d8d991cb1f38863a83219ed964edb9"
+   ],
+   "names": [
+    "RestoreSEP",
+    "SEP"
+   ],
+   "variants": [
+    "Internal NonUI Debug"
+   ],
+   "date": "2026-11-05T15:41:09Z"
+  },
+  "Firmware/dfu/iBEC.n28d.DEBUG.im4p": {
+   "kbag": "a0720ef7db845e983db722e1558e53fa62c09792140153d370e04d30e4ead4dd2a97ca266e2e22cac594ec30880b3b8b",
+   "filename": "Firmware/dfu/iBEC.n28d.DEBUG.im4p",
+   "digests": [
+    "496753ffa0be465dd704e666a36324a0404920dd31f069248366f1a038d4dc48aa12211b7d15e2fd94e379270509236a"
+   ],
+   "names": [
+    "iBEC"
+   ],
+   "variants": [
+    "Internal NonUI Debug"
+   ],
+   "iv": "718b845ca251b578653da1fe3880b984",
+   "key": "108abfee6ae3d5c0f74a7bad4ae7ea77a44bac8b353f831e8ab241993214fbfb",
+   "date": "2026-11-05T15:41:09Z"
+  },
+  "Firmware/dfu/iBSS.n28d.DEBUG.im4p": {
+   "kbag": "c30473a390e14602e738d3f674ea8c06e78f2d7eb446d80490e5e24d31cf94c9ba8c346c0085ddd2d96413526882d7a3",
+   "filename": "Firmware/dfu/iBSS.n28d.DEBUG.im4p",
+   "digests": [
+    "ae22994d3138f199aa4dcd2a2d56b46a61a0b784861ecc42ed53e0ab2865a15fd94eaea2683e859f62314149e967387f"
+   ],
+   "names": [
+    "iBSS"
+   ],
+   "variants": [
+    "Internal NonUI Debug"
+   ],
+   "iv": "cf5240d149c47c596ebecad55e844267",
+   "key": "51788e4d06cb8b5607077c87b58f6a4b8642eb97a53bddc04e9ea40769e81eba",
+   "date": "2026-11-05T15:41:09Z"
+  },
+  "Firmware/all_flash/iBoot.n28d.DEBUG.im4p": {
+   "kbag": "182c399ba0f3e9840a93cbe0ff2c6a7c8072897b33d0b61af445d0e018c8cec08f9be0f64dc399ab6e57ded04222fd39",
+   "filename": "Firmware/all_flash/iBoot.n28d.DEBUG.im4p",
+   "digests": [
+    "0fa950d16b497e3e636e3d95ecee64fd41c1af51903e9694e1bb26c6efd34d6df6ecb060f2184400f286beea5e60be67"
+   ],
+   "names": [
+    "iBoot"
+   ],
+   "variants": [
+    "Internal NonUI Debug"
+   ],
+   "iv": "43d2e83c5510af0b53167a712038d251",
+   "key": "76b3264d3f46f5960ff5fc7d40cd3e85ad72dd4fded5a2fcb92423e0277d360e",
+   "date": "2026-11-05T15:41:09Z"
+  },
+  "Firmware/dfu/iBootTest.n28d.DEBUG.im4p": {
+   "kbag": "",
+   "filename": "Firmware/dfu/iBootTest.n28d.DEBUG.im4p",
+   "digests": [
+    "395919323cca7b94d3b05b0fc2749c7a59f9578684ca9dac6aab079e7473ccf8121a1e6b183737bade77ea086efca4da"
+   ],
+   "names": [
+    "iBootTest"
+   ],
+   "variants": [
+    "Internal NonUI Debug"
+   ],
+   "iv": "",
+   "key": "",
+   "date": "2026-11-05T15:41:09Z"
+  }
+ }
+}
